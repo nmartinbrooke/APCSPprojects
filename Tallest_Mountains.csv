@@ -23,7 +23,7 @@ id,Rank,Mountain name,Height in m,Height in ft,Prominence in m,Range,Parent moun
 3,3,Kangchenjunga,8586,28169,3922,Kangchenjunga Himalaya,Mount Everest,1955,38,NepalIndia
 90,90,Muztagh Tower,7276,23871,1710,Baltoro Karakoram,Skil Brum,1956,4,"Pakistan, China"
 60,60,Jengish Chokusu / Tömür / Pk Pobeda,7439,24406,4148,Tian Shan,Ismail Samani Peak,1956,0,"Kyrgyzstan, China"
-49,49,Muztagh Ata,7509,24636,2698,Muztagata (Eastern Pamirs),Kongur Tagh,1956,,China
+49,49,Muztagh Ata,7509,24636,2698,Muztagata (Eastern Pamirs),Kongur Tagh,1956,0,China
 46,46,Kongur Tiube,7530,24705,840,Kongur Shan (Eastern Pamirs),Kongur Tagh,1956,2,China
 13,13,Gasherbrum II / K4,8035,26362,1524,Baltoro Karakoram,Gasherbrum I,1956,54,"Pakistan, China"
 8,8,Manaslu,8163,26781,3092,Manaslu Himalaya,Cho Oyu,1956,49,Nepal
@@ -103,7 +103,7 @@ id,Rank,Mountain name,Height in m,Height in ft,Prominence in m,Range,Parent moun
 70,70,Ultar,7388,24239,688,Batura Karakoram,Shispare,1996,2,Pakistan
 106,106,Kangphu Kang / Shimokangri,7204,23635,1244,Lunana Himalaya,Tongshanjiabu,2002,1,"Bhutan, China"
 48,48,Saser Kangri II E,7513,24649,1458,Saser Karakoram,Saser Kangri I,2011,0,India
-102,102,Tongshanjiabu,7207,23645,1757,Lunana Himalaya,Gangkhar Puensum,,0,"Bhutan, China"
-99,99,Karjiang,7221,23691,895,Kula Kangri Himalaya,Kula Kangri,,0,China
-93,93,Labuche Kang III,7250,23786,570,Labuche Himalaya,Labuche Kang,,0,China
-40,40,Gangkhar Puensum,7570,24836,2995,Kula Kangri Himalaya,Kangchenjunga,,,"Bhutan, China"
+102,102,Tongshanjiabu,7207,23645,1757,Lunana Himalaya,Gangkhar Puensum,1960,0,"Bhutan, China"
+99,99,Karjiang,7221,23691,895,Kula Kangri Himalaya,Kula Kangri,1960,0,China
+93,93,Labuche Kang III,7250,23786,570,Labuche Himalaya,Labuche Kang,1960,0,China
+40,40,Gangkhar Puensum,7570,24836,2995,Kula Kangri Himalaya,Kangchenjunga,1960,0,"Bhutan, China"
