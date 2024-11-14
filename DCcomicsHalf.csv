@@ -1,0 +1,1000 @@
+id,Name,ID,ALIGN,EYE,HAIR,ALIVE,APPEARANCES,FIRST APPEARANCE,YEAR
+1,Batman (Bruce Wayne),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,3093,"1939, May",1939
+2,Superman (Clark Kent),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,2496,"1986, October",1986
+3,Green Lantern (Hal Jordan),Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,1565,"1959, October",1959
+4,James Gordon (New Earth),Public Identity,Good Characters,Brown Eyes,White Hair,Living Characters,1316,"1987, February",1987
+5,Richard Grayson (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,1237,"1940, April",1940
+6,Wonder Woman (Diana Prince),Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,1231,"1941, December",1941
+7,Aquaman (Arthur Curry),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,1121,"1941, November",1941
+8,Timothy Drake (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,1095,"1989, August",1989
+9,Dinah Laurel Lance (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,1075,"1969, November",1969
+10,Flash (Barry Allen),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,1028,"1956, October",1956
+11,GenderTest,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,1028,"1956, October",1956
+12,Alan Scott (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,969,"1940, July",1940
+13,Jason Garrick (New Earth),Public Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,951,"1940, January",1940
+14,Barbara Gordon (New Earth),Secret Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,951,"1967, January",1967
+15,Lois Lane (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,934,"1938, June",1938
+16,Alfred Pennyworth (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,930,"1943, April",1943
+17,Carter Hall (New Earth),Secret Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,803,"1940, January",1940
+18,Kyle Rayner (New Earth),Secret Identity,Good Characters,Green Eyes,Black Hair,Living Characters,716,"1994, January",1994
+19,Raymond Palmer (New Earth),Public Identity,Good Characters,Brown Eyes,Unknown or None,Living Characters,706,"1961, October",1961
+20,Alexander Luthor (New Earth),Public Identity,Bad Characters,Green Eyes,Unknown or None,Living Characters,677,"1986, October",1986
+21,Roy Harper (New Earth),Secret Identity,Neutral Characters,Green Eyes,Red Hair,Living Characters,654,"1941, November",1941
+22,Kara Zor-L (Earth-Two),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,635,"1976, February",1976
+23,Ted Grant (New Earth),Secret Identity,Unknown or None,Blue Eyes,Black Hair,Living Characters,605,"1942, January",1942
+24,Garfield Logan (New Earth),Public Identity,Good Characters,Green Eyes,Green Hair,Living Characters,595,"1965, November",1965
+25,Guy Gardner (New Earth),Public Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,593,"1968, March",1968
+26,Victor Stone (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,584,"1980, October",1980
+27,Kon-El (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,560,"1993, June",1993
+28,Ralph Dibny (New Earth),Public Identity,Unknown or None,Blue Eyes,Red Hair,Deceased Characters,558,"1960, May",1960
+29,James Olsen (New Earth),Public Identity,Good Characters,Green Eyes,Red Hair,Living Characters,557,"1986, October",1986
+30,John Stewart (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,549,"1971, December",1971
+31,Joker (New Earth),Secret Identity,Bad Characters,Green Eyes,Green Hair,Living Characters,517,"1940, June",1940
+32,Franklin Rock (New Earth),Public Identity,Good Characters,Blue Eyes,Unknown or None,Living Characters,492,"1959, April",1959
+33,Garth (New Earth),Public Identity,Good Characters,Purple Eyes,Black Hair,Deceased Characters,487,"1960, February",1960
+34,Rex Mason (New Earth),Secret Identity,Unknown or None,Black Eyes,Unknown or None,Living Characters,470,"1965, January",1965
+35,Zatanna Zatara (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,439,"1964, November",1964
+36,Aztar (New Earth),Secret Identity,Unknown or None,White Eyes,Unknown or None,Living Characters,436,"1940, February",1940
+37,Theodore Kord (New Earth),Secret Identity,Unknown or None,Blue Eyes,Brown Hair,Deceased Characters,429,"1986, February",1986
+38,Michael Jon Carter (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,427,"1986, February",1986
+39,Cassandra Sandsmark (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,423,"1996, January",1996
+40,Kent Nelson (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,422,"1940, May",1940
+41,Harvey Bullock (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,413,"1974, July",1974
+42,Rachel Roth (New Earth),Secret Identity,Good Characters,Purple Eyes,Black Hair,Living Characters,399,"1980, October",1980
+43,Helena Bertinelli (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,393,"1989, April",1989
+44,Wesley Dodds (New Earth),Secret Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,391,"1939, April",1939
+45,Uxas (New Earth),Public Identity,Bad Characters,Red Eyes,Unknown or None,Deceased Characters,388,"1970, December",1970
+46,Ronald Raymond (New Earth),Secret Identity,Good Characters,Blue Eyes,Unknown or None,Living Characters,386,"1978, March",1978
+47,Nathaniel Adam (New Earth),Secret Identity,Good Characters,Blue Eyes,White Hair,Living Characters,386,"1987, March",1987
+48,Red Tornado (New Earth),Secret Identity,Good Characters,Green Eyes,Unknown or None,Living Characters,374,"1968, August",1968
+49,John Constantine (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,371,"1984, June",1984
+50,Albert Pratt (New Earth),Secret Identity,Good Characters,Blue Eyes,Red Hair,Deceased Characters,370,"1940, October",1940
+51,Charles McNider (New Earth),Secret Identity,Unknown or None,Blue Eyes,Blond Hair,Deceased Characters,361,"1941, April",1941
+52,Theodore Knight (New Earth),Secret Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,356,"1941, April",1941
+53,Lobo (New Earth),Public Identity,Neutral Characters,Red Eyes,Black Hair,Living Characters,353,"1983, June",1983
+54,Perry White (New Earth),Public Identity,Unknown or None,Blue Eyes,Brown Hair,Living Characters,350,"1986, October",1986
+55,John Henry Irons (New Earth),Public Identity,Good Characters,Brown Eyes,Unknown or None,Living Characters,345,"1993, June",1993
+56,Jefferson Pierce (New Earth),Secret Identity,Good Characters,Brown Eyes,Unknown or None,Living Characters,344,"1977, April",1977
+57,Slade Wilson (New Earth),Secret Identity,Neutral Characters,Blue Eyes,White Hair,Living Characters,336,"1980, December",1980
+58,Phantom Stranger (New Earth),Secret Identity,Unknown or None,Black Eyes,Black Hair,Living Characters,335,"1952, September",1952
+59,Beatriz da Costa (New Earth),Secret Identity,Good Characters,Green Eyes,Green Hair,Living Characters,325,"1982, June",1982
+60,William Batson (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,321,"1940, February",1940
+61,Carol Ferris (New Earth),Public Identity,Neutral Characters,Blue Eyes,Black Hair,Living Characters,319,"1959, October",1959
+62,Clifford Steele (New Earth),Public Identity,Unknown or None,Photocellular Eyes,Unknown or None,Living Characters,314,"1963, June",1963
+63,Etrigan (New Earth),Public Identity,Neutral Characters,Red Eyes,Unknown or None,Living Characters,311,"1972, September",1972
+64,Jennifer-Lynn Hayden (New Earth),Secret Identity,Good Characters,Green Eyes,Green Hair,Living Characters,309,"1983, September",1983
+65,Swamp Thing (New Earth),Public Identity,Good Characters,Red Eyes,Unknown or None,Living Characters,309,"1972, November",1972
+66,Renee Montoya (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,308,"1992, March",1992
+67,Harvey Dent (New Earth),Public Identity,Bad Characters,Blue Eyes,Brown Hair,Living Characters,306,"1942, August",1942
+68,Courtney Whitmore (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,305,"1999, July",1999
+69,Kendra Saunders (New Earth),Secret Identity,Good Characters,Hazel Eyes,Brown Hair,Deceased Characters,301,"1999, August",1999
+70,Michael Holt (New Earth),Secret Identity,Unknown or None,Brown Eyes,Black Hair,Living Characters,300,"1997, June",1997
+71,Kilowog (New Earth),Public Identity,Good Characters,Red Eyes,Unknown or None,Living Characters,299,"1986, June",1986
+72,Kara Zor-El (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,297,"2004, May",2004
+73,Jonah Hex (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,291,"1972, March",1972
+74,Rex Tyler (New Earth),Secret Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,288,"1940, March",1940
+75,Pamela Isley (New Earth),Secret Identity,Neutral Characters,Green Eyes,Red Hair,Living Characters,286,"1966, June",1966
+76,Pieter Cross (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,284,"1999, February",1999
+77,Jonathan L. Thunder (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,282,"1940, January",1940
+78,Mari McCabe (New Earth),Secret Identity,Good Characters,Amber Eyes,Brown Hair,Living Characters,268,"1981, July",1981
+79,Scott Free (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,268,"1971, April",1971
+80,Martha Clark (New Earth),Public Identity,Good Characters,Blue Eyes,White Hair,Living Characters,266,"1986, October",1986
+81,Boston Brand (New Earth),Secret Identity,Good Characters,Blue Eyes,Unknown or None,Deceased Characters,262,"1967, October",1967
+82,Daniel Turpin (New Earth),Public Identity,Unknown or None,Brown Eyes,Brown Hair,Deceased Characters,261,"1942, June",1942
+83,John Zatara (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,256,"1938, June",1938
+84,Jonathan Kent (New Earth),Public Identity,Good Characters,Blue Eyes,White Hair,Deceased Characters,254,"1986, October",1986
+85,Oswald Cobblepot (New Earth),Public Identity,Unknown or None,Blue Eyes,Black Hair,Living Characters,253,"1941, December",1941
+86,Tatsu Yamashiro (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,252,"1983, July",1983
+87,Lawrence Trainor (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,250,"1963, June",1963
+88,Albert Rothstein (New Earth),Secret Identity,Good Characters,Blue Eyes,Unknown or None,Living Characters,245,"1983, September",1983
+89,Brion Markov (New Earth),Secret Identity,Good Characters,Green Eyes,Strawberry Blond Hair,Living Characters,245,"1983, July",1983
+90,Sanderson Hawkins (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,241,"1941, December",1941
+91,Jonathan Chambers (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,239,"1941, September",1941
+92,Orion (New Earth),Public Identity,Good Characters,Blue Eyes,Strawberry Blond Hair,Deceased Characters,237,"1971, March",1971
+93,Thaal Sinestro (New Earth),Public Identity,Neutral Characters,Yellow Eyes,Black Hair,Living Characters,237,"1961, August",1961
+94,Jason Todd (New Earth),Secret Identity,Neutral Characters,Blue Eyes,Black Hair,Living Characters,235,"1987, June",1987
+95,Cassandra Cain (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,235,"1999, July",1999
+96,Susan Dearbon (New Earth),Public Identity,Good Characters,Unknown or None,Black Hair,Deceased Characters,235,"1961, March",1961
+97,Jean-Paul Valley (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,234,"1992, October",1992
+98,Hippolyta (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,231,"1987, February",1987
+99,Sylvester Pemberton (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,229,"1941, October",1941
+100,Bernhard Baker (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,229,"1965, September",1965
+101,Joseph Wilson (New Earth),Secret Identity,Neutral Characters,Green Eyes,Blond Hair,Living Characters,229,"1984, May",1984
+102,Jesse Chambers (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,228,"1992, August",1992
+103,Floyd Lawton (New Earth),Secret Identity,Neutral Characters,Blue Eyes,Brown Hair,Living Characters,227,"1950, June",1950
+104,Mera (New Earth),Public Identity,Unknown or None,Blue Eyes,Red Hair,Living Characters,226,"1963, October",1963
+105,Tora Olafsdotter (New Earth),Public Identity,Good Characters,Blue Eyes,White Hair,Living Characters,225,"1988, April",1988
+106,George Harkness (New Earth),Secret Identity,Unknown or None,Brown Eyes,Brown Hair,Living Characters,224,"1960, December",1960
+107,Jonathan Crane (New Earth),Public Identity,Bad Characters,Blue Eyes,Brown Hair,Living Characters,222,"1941, September",1941
+108,Amanda Waller (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,222,"1986, November",1986
+109,Shiera Sanders (New Earth),Secret Identity,Good Characters,Brown Eyes,Red Hair,Living Characters,219,"1940, January",1940
+110,Leonard Snart (New Earth),Secret Identity,Unknown or None,Brown Eyes,Brown Hair,Living Characters,219,"1957, June",1957
+111,Maxwell Lord IV (New Earth),Public Identity,Neutral Characters,Black Eyes,Brown Hair,Living Characters,218,"1987, May",1987
+112,Jeb Stuart (New Earth),Public Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,218,"1961, May",1961
+113,Damian Wayne (Prime Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,216,"1987, September",1987
+114,Big Barda (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,216,"1971, October",1971
+115,Niles Caulder (New Earth),Public Identity,Good Characters,Blue Eyes,Grey Hair,Living Characters,214,"1963, June",1963
+116,James Corrigan (New Earth),Secret Identity,Good Characters,Blue Eyes,Red Hair,Deceased Characters,214,"1940, February",1940
+117,Samuel Bradley (New Earth),Public Identity,Good Characters,Grey Eyes,Grey Hair,Living Characters,213,"1937, March",1937
+118,Richard Tyler (New Earth),Public Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,212,"1985, November",1985
+119,James Ewell Brown Stuart (New Earth),Public Identity,Good Characters,Unknown or None,Brown Hair,Deceased Characters,212,"1961, May",1961
+120,Todd Rice (New Earth),Public Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,208,"1983, September",1983
+121,Yz (New Earth),Secret Identity,Good Characters,Red Eyes,Unknown or None,Living Characters,207,"1940, January",1940
+122,Matrix (Pocket Universe),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,206,"1988, April",1988
+123,Wolfgang Winks (New Earth),Public Identity,Good Characters,Unknown or None,Black Hair,Living Characters,206,"1942, November",1942
+124,William Glenmorgan (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,199,"1940, June",1940
+125,Stephanie Brown (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,198,"1992, August",1992
+126,Raymond Terrill (New Earth),Secret Identity,Good Characters,Green Eyes,Red Hair,Living Characters,192,"1992, February",1992
+127,Adam Blake (New Earth),Public Identity,Good Characters,Hazel Eyes,Brown Hair,Living Characters,191,"1951, June",1951
+128,Kimiyo Hoshi (New Earth),Secret Identity,Unknown or None,Black Eyes,Black Hair,Living Characters,189,"1985, July",1985
+129,Jack Ryder (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,188,"1968, April",1968
+130,Vandar Adg (New Earth),Public Identity,Unknown or None,Brown Eyes,Black Hair,Living Characters,188,"1943, December",1943
+131,Justin Arthur (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,184,"1941, September",1941
+132,Max Mercury (New Earth),Secret Identity,Good Characters,Blue Eyes,Grey Hair,Living Characters,183,"1940, November",1940
+133,Abigail Arcane (New Earth),Public Identity,Good Characters,Blue Eyes,White Hair,Living Characters,182,"1973, January",1973
+134,Thomas Haukins (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,181,"1947, June",1947
+135,Travis Morgan (New Earth),Public Identity,Good Characters,Blue Eyes,White Hair,Deceased Characters,180,"1975, November",1975
+136,Margaret Sawyer (New Earth),Public Identity,Unknown or None,Blue Eyes,Unknown or None,Living Characters,180,"1987, April",1987
+137,Waylon Jones (New Earth),Public Identity,Bad Characters,Red Eyes,Unknown or None,Living Characters,180,"1983, March",1983
+138,Gorilla Grodd (New Earth),Public Identity,Bad Characters,Grey Eyes,Black Hair,Living Characters,179,"1959, May",1959
+139,Adam Strange (New Earth),Public Identity,Unknown or None,Blue Eyes,Blond Hair,Living Characters,177,"1958, December",1958
+140,Patrick Dugan (New Earth),Secret Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,177,"1941, October",1941
+141,Talia al Ghul (New Earth),Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Deceased Characters,177,"1971, May",1971
+142,James Harper Clone (New Earth),Public Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,176,"1971, January",1971
+143,Thomas Kalmaku (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,176,"1960, October",1960
+144,Daniel Cassidy (New Earth),Secret Identity,Good Characters,Yellow Eyes,Unknown or None,Living Characters,176,"1984, June",1984
+145,Gabrielle Doe (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,175,"1983, July",1983
+146,Henry Hall (New Earth),Secret Identity,Good Characters,Red Eyes,Brown Hair,Living Characters,175,"1968, June",1968
+147,Cyrus Gold (New Earth),Secret Identity,Bad Characters,Black Eyes,White Hair,Deceased Characters,174,"1944, October",1944
+148,Linda Park (New Earth),Public Identity,Unknown or None,Brown Eyes,Black Hair,Living Characters,174,"1989, July",1989
+149,Connor Hawke (New Earth),Secret Identity,Good Characters,Green Eyes,Blond Hair,Living Characters,174,"1994, October",1994
+150,Edward Nashton (New Earth),Public Identity,Neutral Characters,Blue Eyes,Black Hair,Living Characters,173,"1988, January",1988
+151,Arisia Rrab (New Earth),Public Identity,Good Characters,Yellow Eyes,Blond Hair,Living Characters,173,"1981, May",1981
+152,Joan Williams (New Earth),Public Identity,Unknown or None,Blue Eyes,Grey Hair,Living Characters,171,"1940, January",1940
+153,Robert Crane (New Earth),Secret Identity,Good Characters,Red Eyes,Unknown or None,Living Characters,171,"1942, April",1942
+154,William Magnus (New Earth),Public Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,170,"1962, April",1962
+155,Mary Batson (New Earth),Secret Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,168,"1995, April",1995
+156,Jean Loring (New Earth),Public Identity,Bad Characters,Green Eyes,Black Hair,Deceased Characters,168,"1961, October",1961
+157,Oberon (New Earth),Public Identity,Unknown or None,Blue Eyes,White Hair,Living Characters,167,"1971, April",1971
+158,Grant Emerson (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,166,"1994, April",1994
+159,Rita Farr (New Earth),Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,166,"1963, June",1963
+160,Hector Hall (New Earth),Secret Identity,Good Characters,Blue Eyes,White Hair,Deceased Characters,165,"1983, September",1983
+161,Jason Rusch (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,165,"2004, July",2004
+162,Mercury (New Earth),Secret Identity,Good Characters,Photocellular Eyes,Unknown or None,Living Characters,165,"1962, April",1962
+163,Daniel Leong (New Earth),Secret Identity,Good Characters,Black Eyes,Black Hair,Deceased Characters,164,"1942, February",1942
+164,Jaime Reyes (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,164,"2006, February",2006
+165,Platinum (New Earth),Secret Identity,Good Characters,Photocellular Eyes,Unknown or None,Living Characters,164,"1962, April",1962
+166,Andre Chavard (New Earth),Public Identity,Good Characters,Unknown or None,Brown Hair,Living Characters,164,"1942, June",1942
+167,"Roy Raymond, Sr. (New Earth)",Public Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,163,"1949, November",1949
+168,Vril Dox II (New Earth),Public Identity,Good Characters,Green Eyes,Blond Hair,Living Characters,163,"1964, February",1964
+169,Uncle Sam (New Earth),Secret Identity,Unknown or None,Blue Eyes,White Hair,Living Characters,162,"1940, July",1940
+170,Lucas Carr (New Earth),Public Identity,Unknown or None,Blue Eyes,Brown Hair,Living Characters,161,"1960, March",1960
+171,Metron (New Earth),Secret Identity,Neutral Characters,Blue Eyes,Black Hair,Deceased Characters,161,"1971, March",1971
+172,Iron (New Earth),Secret Identity,Good Characters,Photocellular Eyes,Unknown or None,Living Characters,161,"1962, April",1962
+173,Lead (New Earth),Secret Identity,Good Characters,Photocellular Eyes,Unknown or None,Living Characters,161,"1962, April",1962
+174,Hartley Rathaway (New Earth),Secret Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,160,"1959, May",1959
+175,Lana Lang (New Earth),Public Identity,Good Characters,Green Eyes,Red Hair,Living Characters,159,"1986, October",1986
+176,DeSaad (New Earth),Public Identity,Bad Characters,Black Eyes,Black Hair,Living Characters,158,"1971, May",1971
+177,Charles Taine (Pre-Zero Hour),Secret Identity,Good Characters,Black Eyes,Black Hair,Living Characters,158,"1961, May",1961
+178,Rose Wilson (New Earth),Secret Identity,Good Characters,Blue Eyes,White Hair,Living Characters,158,"1992, October",1992
+179,Bane (New Earth),Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Living Characters,157,"1993, January",1993
+180,Tin (New Earth),Secret Identity,Good Characters,Photocellular Eyes,Unknown or None,Living Characters,155,"1962, April",1962
+181,Samuel Morgan (New Earth),Unknown,Good Characters,Unknown or None,Red Hair,Deceased Characters,155,"1937, March",1937
+182,Salakk (New Earth),Secret Identity,Good Characters,White Eyes,Unknown or None,Living Characters,155,"1982, February",1982
+183,Eve Eden (New Earth),Secret Identity,Neutral Characters,Blue Eyes,Blond Hair,Living Characters,154,"1966, September",1966
+184,Harleen Quinzel (New Earth),Public Identity,Bad Characters,Blue Eyes,Blond Hair,Living Characters,153,"1999, October",1999
+185,Benjamin Turner (New Earth),Secret Identity,Neutral Characters,Brown Eyes,Black Hair,Living Characters,153,"1975, May",1975
+186,Mark Mardon (New Earth),Secret Identity,Bad Characters,Blue Eyes,Black Hair,Living Characters,152,"1960, January",1960
+187,Teth-Adam (New Earth),Secret Identity,Neutral Characters,Brown Eyes,Black Hair,Living Characters,152,"1945, December",1945
+188,Catherine Grant (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,151,"1987, January",1987
+189,Terrence Sloane (New Earth),Secret Identity,Good Characters,Blue Eyes,Brown Hair,Deceased Characters,151,"1942, January",1942
+190,Jason Blood (New Earth),Public Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,148,"1972, September",1972
+191,Gold (New Earth),Secret Identity,Good Characters,Photocellular Eyes,Unknown or None,Living Characters,147,"1962, April",1962
+192,Victor Fries (New Earth),Secret Identity,Bad Characters,Blue Eyes,Unknown or None,Living Characters,143,"1959, February",1959
+193,Arthur Light (New Earth),Public Identity,Bad Characters,Black Eyes,Black Hair,Deceased Characters,142,"1962, June",1962
+194,Thomas Wayne (New Earth),Public Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,142,"1987, February",1987
+195,Lester Davis (New Earth),Public Identity,Good Characters,Unknown or None,Black Hair,Living Characters,142,"1957, February",1957
+196,Alanna Strange (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,141,"1958, December",1958
+197,Artemis of Bana-Mighdall (New Earth),Public Identity,Good Characters,Green Eyes,Red Hair,Living Characters,141,"1994, September",1994
+198,Nuidis Vulko (New Earth),Public Identity,Good Characters,Blue Eyes,White Hair,Living Characters,140,"1967, September",1967
+199,Steven Dayton (New Earth),Secret Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,140,"1964, November",1964
+200,Lee Travis (New Earth),Secret Identity,Good Characters,Black Eyes,Black Hair,Deceased Characters,139,"1938, October",1938
+201,Solis (New Earth),Secret Identity,Unknown or None,Blue Eyes,Strawberry Blond Hair,Living Characters,138,"1971, March",1971
+202,Martin Stein (New Earth),Secret Identity,Good Characters,Brown Eyes,Grey Hair,Deceased Characters,138,"1978, March",1978
+203,Alfred Twidgett (New Earth),Public Identity,Unknown or None,Unknown or None,Unknown or None,Living Characters,137,"1942, June",1942
+204,Tubby Watts (New Earth),Unknown,Good Characters,Unknown or None,Red Hair,Living Characters,137,"1941, September",1941
+205,Unknown Soldier I (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,136,"1970, July",1970
+206,Giovanni Giuseppe (New Earth),Secret Identity,Neutral Characters,Blue Eyes,Blond Hair,Deceased Characters,136,"1960, July",1960
+207,Victoria Vale (New Earth),Public Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,134,"1948, October",1948
+208,Cynthia Reynolds (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,134,"1984, October",1984
+209,Lucius Fox (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,133,"1979, January",1979
+210,Ganthet (New Earth),Public Identity,Good Characters,Green Eyes,White Hair,Living Characters,132,1992,1992
+211,Izaya (New Earth),Public Identity,Good Characters,Grey Eyes,White Hair,Deceased Characters,132,"1971, March",1971
+212,Matthew Ryan (New Earth),Public Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,131,"1957, February",1957
+213,Mick Rory (New Earth),Public Identity,Unknown or None,Blue Eyes,Unknown or None,Living Characters,131,"1963, November",1963
+214,Dinah Drake (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,131,"1947, August",1947
+215,Rory Regan (New Earth),Secret Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,131,"1976, September",1976
+216,Kyle Morgan (New Earth),Public Identity,Good Characters,Brown Eyes,Blond Hair,Living Characters,131,"1957, February",1957
+217,Barbara Ann Minerva (New Earth),Public Identity,Unknown or None,Brown Eyes,Unknown or None,Living Characters,131,"1987, August",1987
+218,Eclipso (New Earth),Secret Identity,Bad Characters,Red Eyes,Black Hair,Living Characters,131,"1963, July",1963
+219,Victory (New Earth),Unknown,Good Characters,Black Eyes,White Hair,Living Characters,130,"1941, September",1941
+220,Sargent Steel (New Earth),Public Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,130,"1964, December",1964
+221,Robert Langstrom (New Earth),Secret Identity,Neutral Characters,Brown Eyes,Brown Hair,Living Characters,130,"1970, June",1970
+222,Walter Haley (New Earth),Public Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,129,"1957, February",1957
+223,Katma Tui (New Earth),Public Identity,Good Characters,Unknown or None,Black Hair,Deceased Characters,129,"1964, July",1964
+224,Charles Victor Szasz (New Earth),Secret Identity,Good Characters,Blue Eyes,Strawberry Blond Hair,Deceased Characters,128,"1967, June",1967
+225,Ares (New Earth),Public Identity,Bad Characters,Red Eyes,Blond Hair,Living Characters,127,"1987, February",1987
+226,Rip Carter (New Earth),Public Identity,Good Characters,Unknown or None,Black Hair,Living Characters,127,"1942, June",1942
+227,Richard Swift (New Earth),Secret Identity,Neutral Characters,Grey Eyes,Black Hair,Living Characters,126,"1942, September",1942
+228,Emil Hamilton (New Earth),Public Identity,Bad Characters,Hazel Eyes,Grey Hair,Living Characters,126,"1987, January",1987
+229,Eradicator (New Earth),Public Identity,Good Characters,Photocellular Eyes,Black Hair,Deceased Characters,126,"1989, May",1989
+230,Frederick Freeman (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,125,"1995, May",1995
+231,Katar Hol (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,125,"1989, August",1989
+232,Richard Occult (New Earth),Secret Identity,Unknown or None,Grey Eyes,Black Hair,Living Characters,125,"1935, October",1935
+233,Dawn Granger (New Earth),Secret Identity,Good Characters,Blue Eyes,White Hair,Living Characters,124,"1988, October",1988
+234,Maxima (New Earth),Public Identity,Good Characters,Brown Eyes,Red Hair,Deceased Characters,124,"1989, September",1989
+235,Inza Cramer (New Earth),Secret Identity,Good Characters,Green Eyes,Strawberry Blond Hair,Deceased Characters,124,"1940, May",1940
+236,Gunner MacKay (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,123,"1959, May",1959
+237,Linda Danvers (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,123,"1996, September",1996
+238,Dubbilex (New Earth),Public Identity,Good Characters,Green Eyes,Unknown or None,Living Characters,123,"1971, March",1971
+239,Jack Knight (New Earth),Public Identity,Good Characters,Black Eyes,Black Hair,Living Characters,122,"1994, September",1994
+240,Antonia Monetti (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,122,"1996, October",1996
+241,Skeets (New Earth),Public Identity,Good Characters,Unknown or None,Unknown or None,Living Characters,122,"1986, February",1986
+242,Sarge Clay (New Earth),Public Identity,Good Characters,Blue Eyes,Strawberry Blond Hair,Deceased Characters,121,"1959, May",1959
+243,Nimue Inwudu (New Earth),Public Identity,Good Characters,Green Eyes,Black Hair,Living Characters,121,"1978, February",1978
+244,Khaji Da (New Earth),Secret Identity,Good Characters,Unknown or None,Unknown or None,Living Characters,121,"1964, June",1964
+245,Elizabeth Lawrence (New Earth),Secret Identity,Unknown or None,Blue Eyes,Blond Hair,Living Characters,120,"1942, December",1942
+246,Pallas Athena (New Earth),Public Identity,Neutral Characters,Grey Eyes,Brown Hair,Living Characters,118,"1958, May",1958
+247,Terrence Long (New Earth),Public Identity,Good Characters,Blue Eyes,Red Hair,Deceased Characters,116,"1981, June",1981
+248,Evan McCulloch (New Earth),Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Living Characters,116,"1989, February",1989
+249,Crispus Allen (New Earth),Secret Identity,Good Characters,Brown Eyes,Unknown or None,Deceased Characters,116,"2000, March",2000
+250,Granny Goodness (New Earth),Public Identity,Bad Characters,Blue Eyes,White Hair,Deceased Characters,115,"1971, June",1971
+251,Zeus (New Earth),Public Identity,Neutral Characters,Blue Eyes,White Hair,Living Characters,115,"1941, December",1941
+252,Dolphin (New Earth),Unknown,Good Characters,Blue Eyes,Silver Hair,Deceased Characters,115,"1968, December",1968
+253,Strata (New Earth),Public Identity,Good Characters,White Eyes,Unknown or None,Living Characters,115,"1989, February",1989
+254,Holly Robinson (New Earth),Secret Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,114,"1987, February",1987
+255,Martha Kane (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,113,"1987, February",1987
+256,John Sargent (New Earth),Secret Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,113,"1941, May",1941
+257,Dian Belmont (New Earth),Public Identity,Good Characters,Hazel Eyes,Brown Hair,Deceased Characters,113,"1940, February",1940
+258,Jason Woodrue (New Earth),Public Identity,Bad Characters,Red Eyes,Green Hair,Living Characters,113,"1962, July",1962
+259,Leslie Thompkins (New Earth),Public Identity,Good Characters,Blue Eyes,White Hair,Living Characters,111,"1976, March",1976
+260,Edward Bloomberg (New Earth),Secret Identity,Good Characters,Yellow Eyes,Grey Hair,Deceased Characters,111,"1984, June",1984
+261,Tara Markov (Team Titans),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,110,1991,1991
+262,Dmitri Pushkin (New Earth),Secret Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,110,"1987, February",1987
+263,June Moone (New Earth),Secret Identity,Good Characters,Green Eyes,Black Hair,Living Characters,110,"1966, April",1966
+264,Ohiyesa I (New Earth),Public Identity,Good Characters,Black Eyes,Black Hair,Living Characters,109,"1949, September",1949
+265,Mia Dearden (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,109,"2001, May",2001
+266,Krypto (New Earth),Secret Identity,Good Characters,Blue Eyes,White Hair,Living Characters,109,"1955, March",1955
+267,Donald Richards (New Earth),Secret Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,109,"1942, March",1942
+268,Thomas Blake (New Earth),Secret Identity,Neutral Characters,Blue Eyes,Blond Hair,Living Characters,108,"1963, January",1963
+269,Leonid Kovar (New Earth),Secret Identity,Good Characters,Green Eyes,Blond Hair,Living Characters,108,"1968, December",1968
+270,Zauriel (New Earth),Public Identity,Good Characters,Red Eyes,White Hair,Living Characters,108,"1997, June",1997
+271,Emily Briggs (New Earth),Public Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,107,"1985, September",1985
+272,Lilith Clay (New Earth),Secret Identity,Good Characters,Green Eyes,Strawberry Blond Hair,Deceased Characters,107,"1970, February",1970
+273,Hans von Hammer (New Earth),Public Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,106,"1965, February",1965
+274,Thomas Tresser (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,106,"1980, September",1980
+275,William Polk (New Earth),Secret Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,106,"1948, February",1948
+276,Jervis Tetch (New Earth),Secret Identity,Bad Characters,Blue Eyes,Red Hair,Living Characters,105,"1948, October",1948
+277,Lyla Michaels (New Earth),Public Identity,Good Characters,Green Eyes,Blond Hair,Deceased Characters,105,"1982, July",1982
+278,Bruce Gordon (New Earth),Public Identity,Good Characters,Unknown or None,Brown Hair,Living Characters,105,"1963, July",1963
+279,Sugar Plumm (New Earth),Unknown,Good Characters,Unknown or None,Blond Hair,Living Characters,105,"1956, May",1956
+280,Aphrodite (New Earth),Public Identity,Neutral Characters,Blue Eyes,Blond Hair,Living Characters,104,"1941, December",1941
+281,Enya Wazzo (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,104,"1989, November",1989
+282,Zinda Blake (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,104,"1959, February",1959
+283,Werner Vertigo (New Earth),Secret Identity,Neutral Characters,Blue Eyes,Blond Hair,Living Characters,104,"1978, July",1978
+284,Sapphire Stagg (New Earth),Unknown,Neutral Characters,Blue Eyes,Blond Hair,Living Characters,104,"1965, January",1965
+285,Cecil Wilson (New Earth),Unknown,Good Characters,Unknown or None,Red Hair,Living Characters,104,"1956, May",1956
+286,Sarah Essen (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,103,"1987, March",1987
+287,Rip Hunter (New Earth),Secret Identity,Unknown or None,Blue Eyes,Blond Hair,Living Characters,103,"1959, June",1959
+288,Wing How (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,103,"1938, October",1938
+289,Jade Nguyen (New Earth),Secret Identity,Bad Characters,Green Eyes,Black Hair,Living Characters,103,"1983, August",1983
+290,Jack Drake (New Earth),Unknown,Good Characters,Black Eyes,Brown Hair,Deceased Characters,102,"1989, August",1989
+291,Vril Dox I (New Earth),Secret Identity,Bad Characters,Green Eyes,Unknown or None,Living Characters,102,"1988, March",1988
+292,Adolf Hitler (New Earth),Public Identity,Bad Characters,Brown Eyes,Brown Hair,Deceased Characters,101,"1942, March",1942
+293,Grace Choi (New Earth),Secret Identity,Good Characters,Brown Eyes,Red Hair,Living Characters,100,"2003, August",2003
+294,Lawrence Jordan (New Earth),Secret Identity,Unknown or None,Brown Eyes,Brown Hair,Deceased Characters,100,"1942, February",1942
+295,Natasha Irons (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,99,"1994, February",1994
+296,Katherine Spencer (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,98,"2004, October",2004
+297,Lorraine Reilly (New Earth),Secret Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,98,"1982, June",1982
+298,Noah Kuttler (New Earth),Public Identity,Bad Characters,Green Eyes,Brown Hair,Living Characters,98,"1976, September",1976
+299,Stealth (New Earth),Secret Identity,Good Characters,Pink Eyes,White Hair,Deceased Characters,98,"1989, February",1989
+300,Jan Haasan (New Earth),Public Identity,Good Characters,Unknown or None,Blond Hair,Living Characters,98,"1942, June",1942
+301,Despero (New Earth),Public Identity,Bad Characters,Yellow Eyes,Unknown or None,Living Characters,98,"1960, November",1960
+302,Jeffrey Franklin Burr (New Earth),Secret Identity,Bad Characters,Black Eyes,Unknown or None,Deceased Characters,97,"1976, March",1976
+303,Hippolyta Trevor (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,97,"1983, February",1983
+304,Tef\u00e9 Holland (New Earth),Unknown,Bad Characters,Blue Eyes,White Hair,Living Characters,97,"1989, December",1989
+305,Bizarro (New Earth),Public Identity,Neutral Characters,Black Eyes,Black Hair,Living Characters,96,"2000, September",2000
+306,Henry Henshaw (New Earth),Secret Identity,Bad Characters,Blue Eyes,Black Hair,Living Characters,96,"1990, May",1990
+307,Charles Dickles (New Earth),Public Identity,Good Characters,Unknown or None,Unknown or None,Living Characters,96,"1941, June",1941
+308,Dream (New Earth),Secret Identity,Neutral Characters,Black Eyes,Black Hair,Deceased Characters,95,"1989, January",1989
+309,Black Manta (New Earth),Secret Identity,Bad Characters,Brown Eyes,Black Hair,Living Characters,95,"1967, October",1967
+310,Felix Faust (New Earth),Secret Identity,Bad Characters,Brown Eyes,Black Hair,Living Characters,95,"1962, March",1962
+311,Maxine Hunkel (New Earth),Secret Identity,Good Characters,Green Eyes,Red Hair,Living Characters,95,"2007, February",2007
+312,Wade Eiling (New Earth),Public Identity,Bad Characters,Red Eyes,Brown Hair,Living Characters,95,"1987, March",1987
+313,James Harper (New Earth),Public Identity,Good Characters,Blue Eyes,Brown Hair,Deceased Characters,94,"1942, April",1942
+314,Virgil Hawkins (Dakotaverse),Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,94,"1993, June",1993
+315,Soranik Natu (New Earth),Public Identity,Good Characters,Purple Eyes,Black Hair,Living Characters,93,"2005, November",2005
+316,Roman Sionis (New Earth),Public Identity,Bad Characters,Black Eyes,Unknown or None,Deceased Characters,92,"1985, August",1985
+317,Merlin (New Earth),Secret Identity,Neutral Characters,Black Eyes,White Hair,Living Characters,92,"1936, February",1936
+318,"Henry King, Jr. (New Earth)",Public Identity,Good Characters,Blue Eyes,Strawberry Blond Hair,Living Characters,92,"1983, August",1983
+319,Abin Sur (New Earth),Public Identity,Good Characters,Blue Eyes,Unknown or None,Deceased Characters,92,"1959, October",1959
+320,Citizen Abra (New Earth),Secret Identity,Bad Characters,Blue Eyes,Black Hair,Living Characters,92,"1962, May",1962
+321,Orm Marius (New Earth),Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Living Characters,92,"1966, October",1966
+322,Anissa Pierce (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,92,"2003, August",2003
+323,Jonathan Tane (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,91,"1948, August",1948
+324,Danette Reilly (New Earth),Secret Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,91,"1981, August",1981
+325,William Payton (New Earth),Secret Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,91,"1988, October",1988
+326,Hermes (New Earth),Public Identity,Neutral Characters,Blue Eyes,Blond Hair,Living Characters,90,"1959, April",1959
+327,Ronald Troupe (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,90,"1991, July",1991
+328,William Storm (New Earth),Public Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,90,"1964, June",1964
+329,Timothy Hunter (New Earth),Public Identity,Good Characters,Black Eyes,Black Hair,Living Characters,89,"1990, December",1990
+330,William Zard (New Earth),Public Identity,Bad Characters,Blue Eyes,Black Hair,Living Characters,89,"1947, April",1947
+331,Eobard Thawne (New Earth),Secret Identity,Bad Characters,Blue Eyes,Strawberry Blond Hair,Deceased Characters,89,"1963, September",1963
+332,Sandra Wu-San (New Earth),Secret Identity,Neutral Characters,Brown Eyes,Black Hair,Living Characters,89,"1976, January",1976
+333,Taghurrhu (New Earth),Public Identity,Good Characters,Green Eyes,Orange Hair,Living Characters,89,"1981, June",1981
+334,Bobo T. Chimpanzee (New Earth),Unknown,Unknown or None,Black Eyes,Black Hair,Living Characters,88,"1952, August",1952
+335,Arnold Wesker (New Earth),Public Identity,Bad Characters,Blue Eyes,White Hair,Deceased Characters,88,"1988, February",1988
+336,David Clinton (New Earth),Secret Identity,Unknown or None,Blue Eyes,Black Hair,Living Characters,88,"1962, November",1962
+337,Philippus (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,88,"1987, February",1987
+338,Miriam Delgado (Team Titans),Secret Identity,Good Characters,Black Eyes,Black Hair,Living Characters,87,1991,1991
+339,Peter Ross (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,87,"1961, January",1961
+340,Mikaal Tomas (New Earth),Secret Identity,Good Characters,Blue Eyes,Purple Hair,Living Characters,87,"1976, March",1976
+341,Mister Bones (New Earth),Secret Identity,Neutral Characters,Unknown or None,Unknown or None,Living Characters,87,"1985, July",1985
+342,Sardath (New Earth),Public Identity,Good Characters,Blue Eyes,Unknown or None,Living Characters,86,"1958, December",1958
+343,Suzanne King-Jones (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,86,"1997, August",1997
+344,Harold Thompson (New Earth),Secret Identity,Unknown or None,Blue Eyes,Blond Hair,Living Characters,86,"1938, June",1938
+345,Herakles (New Earth),Public Identity,Unknown or None,Brown Eyes,Brown Hair,Living Characters,86,"1941, December",1941
+346,Rosabelle Mendez (New Earth),Secret Identity,Good Characters,Red Eyes,Unknown or None,Deceased Characters,86,"1991, February",1991
+347,Matthew Tyler (New Earth),Public Identity,Good Characters,White Eyes,Unknown or None,Deceased Characters,86,"1997, November",1997
+348,Congorilla (New Earth),Public Identity,Good Characters,Blue Eyes,Gold Hair,Living Characters,85,"1959, January",1959
+349,Shayera Thal (New Earth),Secret Identity,Good Characters,Blue Eyes,Red Hair,Deceased Characters,85,"1989, August",1989
+350,Mallah (New Earth),Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Deceased Characters,85,"1964, March",1964
+351,Julia Deneiros (New Earth),Public Identity,Good Characters,Blue Eyes,Grey Hair,Living Characters,84,"1987, April",1987
+352,Thomas Elliot (New Earth),Secret Identity,Bad Characters,Blue Eyes,Red Hair,Living Characters,84,"2003, January",2003
+353,Greta Hayes (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,84,"1998, June",1998
+354,Jonathan Law (New Earth),Secret Identity,Unknown or None,Blue Eyes,Blond Hair,Deceased Characters,84,"1941, October",1941
+355,Etta Candy (New Earth),Public Identity,Good Characters,Green Eyes,Brown Hair,Living Characters,84,"1942, February",1942
+356,Parallax (New Earth),Secret Identity,Bad Characters,Unknown or None,Unknown or None,Living Characters,84,"1994, March",1994
+357,Simon Stagg (New Earth),Public Identity,Bad Characters,Blue Eyes,White Hair,Living Characters,83,"1965, January",1965
+358,"Rex, the Wonder Dog (New Earth)",Public Identity,Good Characters,Blue Eyes,White Hair,Living Characters,83,"1952, February",1952
+359,Thomas Bronson (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,83,"2007, February",2007
+360,Karen Beecher (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,83,"1976, December",1976
+361,Ellen Frazier (New Earth),Public Identity,Good Characters,Green Eyes,Red Hair,Living Characters,83,"1965, September",1965
+362,Norda Cantrell (New Earth),Secret Identity,Unknown or None,White Eyes,Brown Hair,Living Characters,83,"1983, September",1983
+363,Thomas Monaghan (New Earth),Public Identity,Good Characters,Black Eyes,Black Hair,Deceased Characters,82,1993,1993
+364,Hannibal Hawkes (New Earth),Secret Identity,Good Characters,Black Eyes,Black Hair,Living Characters,82,"1948, October",1948
+365,Terrence Thirteen (New Earth),Public Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,82,"1951, November",1951
+366,Kalibak (New Earth),Public Identity,Bad Characters,Red Eyes,Black Hair,Deceased Characters,82,"1971, March",1971
+367,Drury Walker (New Earth),Secret Identity,Bad Characters,Red Eyes,Brown Hair,Deceased Characters,82,"1951, February",1951
+368,Tomar-Tu (New Earth),Secret Identity,Good Characters,White Eyes,Unknown or None,Living Characters,82,"1990, October",1990
+369,Isamot Kol (New Earth),Secret Identity,Good Characters,Yellow Eyes,Unknown or None,Living Characters,82,"2005, November",2005
+370,Baran Flinders (New Earth),Public Identity,Bad Characters,Blue Eyes,Red Hair,Living Characters,81,"1981, January",1981
+371,Mark Shaw (New Earth),Public Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,81,"1975, August",1975
+372,Neal Emerson (New Earth),Secret Identity,Bad Characters,Blue Eyes,Black Hair,Deceased Characters,81,"1963, June",1963
+373,Circe (New Earth),Public Identity,Bad Characters,Red Eyes,Purple Hair,Living Characters,81,"1988, August",1988
+374,Vanessa Kapatelis (New Earth),Unknown,Good Characters,Blue Eyes,Brown Hair,Living Characters,80,"1987, April",1987
+375,Samuel Scudder (New Earth),Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Deceased Characters,80,"1959, March",1959
+376,Malcolm Duncan (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,80,"1970, April",1970
+377,Lian Harper (New Earth),Public Identity,Good Characters,Green Eyes,Black Hair,Deceased Characters,80,"1986, June",1986
+378,Cameron Chase (New Earth),Secret Identity,Good Characters,Green Eyes,Blond Hair,Living Characters,80,"1998, January",1998
+379,John Corben (New Earth),Secret Identity,Bad Characters,Photocellular Eyes,Brown Hair,Living Characters,80,"1987, January",1987
+380,Abigail Hunkel (New Earth),Secret Identity,Good Characters,Black Eyes,Brown Hair,Living Characters,79,"1939, June",1939
+381,Sasha Bordeaux (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,79,"2000, December",2000
+382,Valentina Vostok (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,79,"1977, September",1977
+383,Paul Booker (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Deceased Characters,79,"1966, March",1966
+384,Jakeem Williams (New Earth),Secret Identity,Unknown or None,Brown Eyes,Unknown or None,Living Characters,79,,
+385,Cyril Saunders (New Earth),Public Identity,Good Characters,Hazel Eyes,White Hair,Living Characters,79,"1937, March",1937
+386,L-Ron (New Earth),Public Identity,Good Characters,Photocellular Eyes,Unknown or None,Living Characters,79,"1988, June",1988
+387,Rudolph Jones (New Earth),Secret Identity,Bad Characters,Unknown or None,Unknown or None,Living Characters,79,"1987, April",1987
+388,Hector Hammond (New Earth),Public Identity,Bad Characters,Blue Eyes,Brown Hair,Living Characters,78,"1961, April",1961
+389,Christopher Smith (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,78,"1966, November",1966
+390,Roger Hayden (New Earth),Secret Identity,Bad Characters,Blue Eyes,Red Hair,Deceased Characters,78,"1965, June",1965
+391,Owen Mercer (New Earth),Secret Identity,Reformed Criminals,Blue Eyes,Red Hair,Deceased Characters,78,"2004, October",2004
+392,"Thaddeus Sivana, Sr. (New Earth)",Public Identity,Bad Characters,Black Eyes,Unknown or None,Living Characters,77,"1987, April",1987
+393,Samuel Lane (New Earth),Public Identity,Bad Characters,Blue Eyes,Grey Hair,Deceased Characters,77,"1987, January",1987
+394,Lashina (New Earth),Secret Identity,Bad Characters,Blue Eyes,Black Hair,Living Characters,77,"1972, February",1972
+395,Lorena Marquez (New Earth),Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,77,"2004, May",2004
+396,Joshua Clay (New Earth),Secret Identity,Unknown or None,Brown Eyes,Black Hair,Deceased Characters,77,"1977, September",1977
+397,Boodikka (New Earth),Public Identity,Good Characters,Green Eyes,Black Hair,Deceased Characters,77,"1992, January",1992
+398,Brain (New Earth),Secret Identity,Bad Characters,Unknown or None,Unknown or None,Living Characters,77,"1964, March",1964
+399,Java (New Earth),Public Identity,Bad Characters,Black Eyes,Black Hair,Living Characters,76,"1965, January",1965
+400,Adrian Chase (New Earth),Public Identity,Unknown or None,Blue Eyes,Blond Hair,Deceased Characters,76,"1982, September",1982
+401,Curtis Metcalf (Dakotaverse),Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,76,"1993, April",1993
+402,Captain Harding (New Earth),Public Identity,Good Characters,Unknown or None,Brown Hair,Living Characters,76,"1956, February",1956
+403,Horace Canfield (New Earth),Public Identity,Good Characters,Unknown or None,Unknown or None,Living Characters,76,"1961, April",1961
+404,Brik (New Earth),Secret Identity,Good Characters,White Eyes,Unknown or None,Living Characters,76,"1991, May",1991
+405,"Richard Flag, Jr. (New Earth)",Secret Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,75,"1959, September",1959
+406,Sarah Charles (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,75,"1985, September",1985
+407,Helena Sandsmark (New Earth),Public Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,75,"1996, January",1996
+408,Tomar-Re (New Earth),Secret Identity,Good Characters,Red Eyes,Unknown or None,Deceased Characters,75,"1961, June",1961
+409,Starro (New Earth),Unknown,Bad Characters,Black Eyes,Unknown or None,Living Characters,74,"1960, March",1960
+410,Winslow Schott (New Earth),Public Identity,Bad Characters,Blue Eyes,Unknown or None,Living Characters,74,"1943, September",1943
+411,Nathaniel Heywood (New Earth),Secret Identity,Good Characters,Green Eyes,Red Hair,Living Characters,74,"2007, March",2007
+412,Ultra-Humanite (New Earth),Secret Identity,Unknown or None,Red Eyes,White Hair,Living Characters,74,"1939, June",1939
+413,Matthew Cable (New Earth),Secret Identity,Unknown or None,Unknown or None,Black Hair,Living Characters,74,"1972, November",1972
+414,Topo (New Earth),Unknown,Good Characters,Unknown or None,Unknown or None,Living Characters,74,"1956, October",1956
+415,Hugh Dawkins (New Earth),Secret Identity,Good Characters,White Eyes,Blond Hair,Living Characters,74,"1986, November",1986
+416,Victor Zsasz (New Earth),Public Identity,Bad Characters,Blue Eyes,Blond Hair,Living Characters,73,"1992, June",1992
+417,Kay Challis (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,73,"1989, February",1989
+418,Roland Desmond (New Earth),Public Identity,Bad Characters,Brown Eyes,Brown Hair,Deceased Characters,73,"1965, November",1965
+419,Dane Dorrance (New Earth),Public Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,73,"1960, August",1960
+420,Flying Cloud (New Earth),Public Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,73,"1960, December",1960
+421,Carl Sands (New Earth),Secret Identity,Bad Characters,Brown Eyes,Black Hair,Living Characters,73,"1961, July",1961
+422,Neron (New Earth),Secret Identity,Bad Characters,White Eyes,Blond Hair,Living Characters,73,"1995, November",1995
+423,Cain (New Earth),Public Identity,Bad Characters,Black Eyes,Brown Hair,Living Characters,72,"1968, August",1968
+424,Steven Trevor (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,72,"1941, December",1941
+425,Garryn Bek (New Earth),Public Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,72,"1989, January",1989
+426,Jose Delgado (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,72,"1987, May",1987
+427,"Peter Merkel, Jr. (New Earth)",Secret Identity,Bad Characters,Grey Eyes,Red Hair,Living Characters,72,"2005, July",2005
+428,Mogo (New Earth),Public Identity,Good Characters,Unknown or None,Unknown or None,Living Characters,72,"1985, May",1985
+429,Louise Lincoln (New Earth),Public Identity,Bad Characters,Blue Eyes,Blue Hair,Living Characters,71,"1984, March",1984
+430,Thomas Oscar Morrow (New Earth),Public Identity,Bad Characters,Blue Eyes,Brown Hair,Living Characters,71,"1964, March",1964
+431,Brian Savage (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,71,"1977, April",1977
+432,Edgar Cizko (New Earth),Secret Identity,Bad Characters,Blue Eyes,Black Hair,Living Characters,71,"1991, May",1991
+433,Amazo (New Earth),Public Identity,Bad Characters,Red Eyes,Unknown or None,Living Characters,71,"1960, July",1960
+434,Kingsley Faraday (New Earth),Public Identity,Good Characters,Blue Eyes,White Hair,Living Characters,70,"1950, August",1950
+435,Nabu (New Earth),Public Identity,Good Characters,Blue Eyes,White Hair,Deceased Characters,69,"1941, May",1941
+436,Clifford Zmeck (New Earth),Secret Identity,Bad Characters,Blue Eyes,Brown Hair,Living Characters,69,"1988, February",1988
+437,Hop Harrigan (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,68,"1939, April",1939
+438,Bleez (New Earth),Public Identity,Neutral Characters,Blue Eyes,Black Hair,Living Characters,68,"2008, December",2008
+439,Tara Markov (New Earth),Secret Identity,Bad Characters,Blue Eyes,Blond Hair,Deceased Characters,68,"1982, December",1982
+440,Isaac Bowin (New Earth),Secret Identity,Unknown or None,Blue Eyes,Unknown or None,Deceased Characters,68,"1948, January",1948
+441,Catherine Cobert (New Earth),Unknown,Good Characters,Blue Eyes,Black Hair,Living Characters,68,"1987, December",1987
+442,Harry Stein (New Earth),Public Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,68,"1985, November",1985
+443,Adeline Kane (New Earth),Secret Identity,Neutral Characters,Green Eyes,Brown Hair,Deceased Characters,68,"1983, August",1983
+444,Green Man (New Earth),Public Identity,Unknown or None,Red Eyes,Unknown or None,Deceased Characters,68,"1983, May",1983
+445,Shakira (New Earth),Public Identity,Good Characters,Unknown or None,Black Hair,Living Characters,68,"1980, April",1980
+446,Tara Morgan (New Earth),Public Identity,Good Characters,Unknown or None,Brown Hair,Living Characters,68,"1975, November",1975
+447,Hannu (New Earth),Public Identity,Good Characters,White Eyes,Unknown or None,Living Characters,68,"1994, February",1994
+448,Vath Sarn (New Earth),Public Identity,Good Characters,Black Eyes,Black Hair,Living Characters,67,"2005, November",2005
+449,Mercy Graves (New Earth),Public Identity,Bad Characters,Blue Eyes,Blond Hair,Living Characters,67,"1999, August",1999
+450,Arnold Munro (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,67,"1987, June",1987
+451,Lydea Mallor (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,67,"1982, August",1982
+452,Lawrence Bolatinsky (New Earth),Secret Identity,Bad Characters,Blue Eyes,Black Hair,Deceased Characters,67,"1984, November",1984
+453,Jebediah of Canaan (New Earth),Secret Identity,Good Characters,Blue Eyes,White Hair,Living Characters,67,"1987, April",1987
+454,Bibbo Bibbowski (New Earth),Public Identity,Good Characters,Grey Eyes,Grey Hair,Living Characters,67,"1987, May",1987
+455,Sonia Sato (New Earth),Secret Identity,Good Characters,Unknown or None,Black Hair,Living Characters,67,"2007, January",2007
+456,Frances Kane (New Earth),Public Identity,Unknown or None,Blue Eyes,Purple Hair,Living Characters,66,"1982, March",1982
+457,Daniel Dunbar (New Earth),Secret Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,66,"1942, March",1942
+458,Tana Moon (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Deceased Characters,66,"1993, June",1993
+459,Jason Bard (New Earth),Public Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,66,"1969, October",1969
+460,Krona (New Earth),Public Identity,Bad Characters,Green Eyes,White Hair,Deceased Characters,66,"1965, October",1965
+461,Maxine Baker (New Earth),Public Identity,Good Characters,Green Eyes,Red Hair,Living Characters,66,"1988, September",1988
+462,Garv (New Earth),Public Identity,Good Characters,Blue Eyes,Unknown or None,Living Characters,65,"1990, May",1990
+463,Mackenzie Bock (New Earth),Public Identity,Good Characters,Brown Eyes,Unknown or None,Living Characters,65,"1995, January",1995
+464,Scandal Savage (New Earth),Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Living Characters,65,"2005, July",2005
+465,Karen Lou Faulkner (New Earth),Secret Identity,Neutral Characters,Brown Eyes,Brown Hair,Living Characters,65,"1987, July",1987
+466,Albert Desmond (New Earth),Unknown,Unknown or None,Green Eyes,Red Hair,Living Characters,65,"1958, April",1958
+467,Jeremiah Arkham (New Earth),Public Identity,Bad Characters,Unknown or None,Unknown or None,Living Characters,65,"1992, June",1992
+468,Amon Hakk (New Earth),Public Identity,Good Characters,Unknown or None,Black Hair,Living Characters,65,"1991, August",1991
+469,Mister Mxyzptlk (New Earth),Secret Identity,Neutral Characters,Black Eyes,White Hair,Living Characters,64,"1987, November",1987
+470,Janos Prohaska (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,64,"1988, March",1988
+471,Jor-El (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,64,"1986, October",1986
+472,Edward Fyers (New Earth),Public Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,64,"1987, October",1987
+473,William Hand (New Earth),Secret Identity,Bad Characters,Brown Eyes,Black Hair,Living Characters,64,"1964, June",1964
+474,Kent V. Nelson (New Earth),Secret Identity,Good Characters,Brown Eyes,Blond Hair,Living Characters,64,"2007, November",2007
+475,Yolanda Montez (New Earth),Secret Identity,Good Characters,Brown Eyes,Reddish Brown Hair,Deceased Characters,64,"1985, March",1985
+476,Molly Mayne (New Earth),Secret Identity,Good Characters,Green Eyes,Red Hair,Living Characters,64,"1947, September",1947
+477,Scribbly Jibbet (New Earth),Public Identity,Good Characters,Unknown or None,Black Hair,Living Characters,64,"1939, April",1939
+478,William Randolph Wintergreen (New Earth),Public Identity,Neutral Characters,Unknown or None,White Hair,Deceased Characters,64,"1980, December",1980
+479,Charis-Nar (New Earth),Secret Identity,Good Characters,Black Eyes,Unknown or None,Living Characters,63,"1981, June",1981
+480,Tex (New Earth),Public Identity,Good Characters,Unknown or None,Red Hair,Living Characters,63,"1947, June",1947
+481,Pooch (New Earth),Public Identity,Good Characters,Unknown or None,White Hair,Deceased Characters,63,"1959, September",1959
+482,Clifford DeVoe (New Earth),Secret Identity,Bad Characters,Unknown or None,Black Hair,Deceased Characters,63,"1943, September",1943
+483,Amy Winston (New Earth),Secret Identity,Good Characters,Violet Eyes,Blond Hair,Living Characters,63,"1983, April",1983
+484,Klarion Bleak (New Earth),Secret Identity,Neutral Characters,Black Eyes,Black Hair,Living Characters,62,"1973, March",1973
+485,Mark Merlin (New Earth),Public Identity,Good Characters,Blue Eyes,Brown Hair,Deceased Characters,62,"1959, August",1959
+486,Garfield Lynns (New Earth),Secret Identity,Bad Characters,Blue Eyes,White Hair,Living Characters,62,"1952, June",1952
+487,Morgaine le Fey (New Earth),Public Identity,Bad Characters,Black Eyes,Black Hair,Living Characters,61,"1972, September",1972
+488,Nanaue (New Earth),Secret Identity,Bad Characters,Black Eyes,Unknown or None,Living Characters,61,"1994, October",1994
+489,David Reid (New Earth),Public Identity,Neutral Characters,Blue Eyes,Blond Hair,Deceased Characters,61,"2008, March",2008
+490,"Henry Heywood, Sr. (New Earth)",Secret Identity,Unknown or None,Blue Eyes,Black Hair,Deceased Characters,61,"1978, March",1978
+491,Francine Lee (New Earth),Public Identity,Good Characters,Brown Eyes,Unknown or None,Living Characters,61,"1970, August",1970
+492,Emil LaSalle (New Earth),Secret Identity,Bad Characters,Brown Eyes,Black Hair,Deceased Characters,61,"1981, December",1981
+493,Clifford Carmichael (New Earth),Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Deceased Characters,61,"1978, March",1978
+494,Per Degaton (New Earth),Secret Identity,Bad Characters,Red Eyes,Red Hair,Living Characters,61,"1947, June",1947
+495,Roxanne Leech (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,60,"1993, July",1993
+496,Bette Sans Souci (New Earth),Secret Identity,Bad Characters,Blue Eyes,Red Hair,Living Characters,60,"1982, December",1982
+497,Paco Ramone (New Earth),Public Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,60,"1984, October",1984
+498,Martha Roberts (New Earth),Secret Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,60,"1939, December",1939
+499,Chaselon (New Earth),Public Identity,Unknown or None,White Eyes,Black Hair,Deceased Characters,60,"1961, December",1961
+500,Richard Starr (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,59,"1958, August",1958
+501,Langford Terrill (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,59,"1940, September",1940
+502,Pren (New Earth),Secret Identity,Good Characters,Blue Eyes,Red Hair,Deceased Characters,59,"1981, June",1981
+503,Arthur Brown (New Earth),Unknown,Bad Characters,Blue Eyes,Blond Hair,Living Characters,59,"1966, May",1966
+504,Angela Hawkins III (New Earth),Secret Identity,Bad Characters,Green Eyes,Black Hair,Living Characters,59,"1981, December",1981
+505,Paula Brooks (New Earth),Secret Identity,Unknown or None,Green Eyes,Black Hair,Living Characters,59,"1947, August",1947
+506,Simon Jones (New Earth),Public Identity,Bad Characters,White Eyes,Unknown or None,Deceased Characters,59,"1981, January",1981
+507,Ferrin Colos (New Earth),Public Identity,Good Characters,White Eyes,Unknown or None,Deceased Characters,59,"1992, October",1992
+508,Jonathan Gabrielli I (New Earth),Public Identity,Good Characters,Black Eyes,Black Hair,Deceased Characters,58,"1942, April",1942
+509,Death (New Earth),Secret Identity,Neutral Characters,Black Eyes,Black Hair,Living Characters,58,"1989, August",1989
+510,Tula (New Earth),Public Identity,Unknown or None,Blue Eyes,Brown Hair,Deceased Characters,58,"1967, June",1967
+511,Roscoe Dillon (New Earth),Secret Identity,Bad Characters,Blue Eyes,Brown Hair,Deceased Characters,58,"1961, August",1961
+512,Cameron Mahkent (New Earth),Secret Identity,Bad Characters,Blue Eyes,White Hair,Living Characters,58,"1987, January",1987
+513,Ryan Kendall (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,58,"1992, June",1992
+514,James Rook (New Earth),Secret Identity,Good Characters,Green Eyes,Brown Hair,Living Characters,58,"1969, May",1969
+515,Irwin Schwab (New Earth),Secret Identity,Good Characters,Green Eyes,Unknown or None,Living Characters,58,"1982, December",1982
+516,Trigon (New Earth),Public Identity,Bad Characters,Red Eyes,Red Hair,Living Characters,58,"1981, March",1981
+517,Chemo (New Earth),Public Identity,Bad Characters,Unknown or None,Unknown or None,Living Characters,58,"1962, July",1962
+518,Ronald Reagan (New Earth),Public Identity,Good Characters,Unknown or None,Black Hair,Living Characters,58,"1950, June",1950
+519,Anthony Rodriguez I (New Earth),Public Identity,Good Characters,Black Eyes,Brown Hair,Deceased Characters,57,"1942, April",1942
+520,Hera (New Earth),Public Identity,Neutral Characters,Blue Eyes,Red Hair,Living Characters,57,"1941, December",1941
+521,Paul Kirk II (New Earth),Secret Identity,Good Characters,Blue Eyes,Brown Hair,Deceased Characters,57,"1942, April",1942
+522,Arak Red-Hand (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Deceased Characters,57,"1981, August",1981
+523,Anita Fite (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,57,"2000, January",2000
+524,Thomas Thompkins I (New Earth),Public Identity,Good Characters,Unknown or None,Brown Hair,Deceased Characters,57,"1942, April",1942
+525,Anthony Ivo (New Earth),Secret Identity,Bad Characters,Unknown or None,Black Hair,Living Characters,57,"1960, July",1960
+526,Troy Stewart (Pre-Zero Hour),Public Identity,Good Characters,Black Eyes,Black Hair,Living Characters,56,"1976, April",1976
+527,Patrick MacGuire I (New Earth),Public Identity,Good Characters,Unknown or None,Red Hair,Living Characters,56,"1942, April",1942
+528,Jennifer Morgan (New Earth),Secret Identity,Good Characters,Unknown or None,Brown Hair,Living Characters,56,"1980, October",1980
+529,Graf Toren (New Earth),Secret Identity,Good Characters,Unknown or None,Unknown or None,Living Characters,56,"1993, August",1993
+530,Baby Wildebeest (New Earth),Public Identity,Good Characters,White Eyes,Black Hair,Deceased Characters,56,"1992, April",1992
+531,Anton Arcane (New Earth),Public Identity,Bad Characters,Black Eyes,White Hair,Deceased Characters,55,"1973, January",1973
+532,Sebastian Faust (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,55,"1993, November",1993
+533,Stanley Kitch (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,55,"1989, January",1989
+534,Judy Walton (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,55,"1960, August",1960
+535,Henry Heywood III (New Earth),Public Identity,Good Characters,Blue Eyes,Red Hair,Deceased Characters,55,"1984, October",1984
+536,Johnny Peril (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,55,"1947, February",1947
+537,Voz (New Earth),Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,55,"1993, August",1993
+538,Stel (New Earth),Public Identity,Good Characters,Photocellular Eyes,Unknown or None,Living Characters,55,"1962, March",1962
+539,Yera Allon (Pre-Zero Hour),Public Identity,Good Characters,Purple Eyes,Purple Hair,Living Characters,55,"1982, May",1982
+540,Mongul I (New Earth),Public Identity,Bad Characters,Red Eyes,Unknown or None,Deceased Characters,55,"1980, November",1980
+541,Nicholas Walton (New Earth),Public Identity,Good Characters,Unknown or None,Blond Hair,Living Characters,55,"1960, August",1960
+542,Randu Singh (New Earth),Unknown,Good Characters,Unknown or None,Black Hair,Living Characters,55,"1972, September",1972
+543,Atrocitus (New Earth),Secret Identity,Neutral Characters,Yellow Eyes,Unknown or None,Living Characters,55,"2008, January",2008
+544,Shift (New Earth),Public Identity,Good Characters,Black Eyes,Unknown or None,Living Characters,54,"2003, August",2003
+545,Merlyn (New Earth),Secret Identity,Bad Characters,Black Eyes,Black Hair,Living Characters,54,"1971, November",1971
+546,Jared Stevens (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,54,"1994, October",1994
+547,"Arthur Curry, Jr. (New Earth)",Public Identity,Neutral Characters,Blue Eyes,Blond Hair,Deceased Characters,54,"1965, October",1965
+548,Michael Akins (New Earth),Public Identity,Neutral Characters,Brown Eyes,Black Hair,Living Characters,54,"2001, January",2001
+549,Natt Walls (New Earth),Public Identity,Neutral Characters,Brown Eyes,Black Hair,Deceased Characters,54,"1996, August",1996
+550,Carol Bucklen (New Earth),Unknown,Good Characters,Brown Eyes,Black Hair,Living Characters,54,"1995, April",1995
+551,Big Bear (New Earth),Public Identity,Good Characters,Green Eyes,Red Hair,Deceased Characters,54,"1971, March",1971
+552,Satanus (New Earth),Secret Identity,Bad Characters,Red Eyes,Black Hair,Living Characters,54,"1992, August",1992
+553,Danny the Street (New Earth),Public Identity,Good Characters,Unknown or None,Unknown or None,Living Characters,54,"1990, August",1990
+554,Alice Spencer (New Earth),Public Identity,Good Characters,Unknown or None,White Hair,Living Characters,54,"1987, May",1987
+555,Danton Black (New Earth),Secret Identity,Bad Characters,Blue Eyes,Black Hair,Living Characters,53,"1978, March",1978
+556,Knockout (New Earth),Secret Identity,Bad Characters,Blue Eyes,Red Hair,Living Characters,53,"1994, February",1994
+557,Jennifer Pierce (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,53,"2008, March",2008
+558,Clifford Baker (New Earth),Public Identity,Unknown or None,Green Eyes,Red Hair,Deceased Characters,53,"1988, September",1988
+559,Daniel Chase (New Earth),Secret Identity,Good Characters,Green Eyes,Red Hair,Deceased Characters,53,1987,1987
+560,Kanjar Ro (New Earth),Public Identity,Bad Characters,Yellow Eyes,Unknown or None,Living Characters,53,"1961, March",1961
+561,James Craddock (New Earth),Public Identity,Bad Characters,Blue Eyes,Brown Hair,Deceased Characters,52,"1947, October",1947
+562,Beautiful Dreamer (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,52,"1971, March",1971
+563,Lori Zechlin (New Earth),Secret Identity,Neutral Characters,Blue Eyes,Black Hair,Living Characters,52,"2005, January",2005
+564,Cody Driscoll (New Earth),Secret Identity,Good Characters,Green Eyes,Blond Hair,Living Characters,52,"1996, October",1996
+565,Helena Kosmatos (New Earth),Secret Identity,Good Characters,Red Eyes,Blond Hair,Living Characters,52,"1987, March",1987
+566,Franklin Delano Roosevelt (New Earth),Public Identity,Good Characters,Unknown or None,Grey Hair,Living Characters,52,"1936, March",1936
+567,Biff Bailey (New Earth),Public Identity,Good Characters,Unknown or None,Red Hair,Living Characters,52,"1960, August",1960
+568,Kalista (New Earth),Public Identity,Good Characters,White Eyes,Purple Hair,Deceased Characters,52,"1981, June",1981
+569,Arkillo (New Earth),Public Identity,Bad Characters,Black Eyes,Unknown or None,Living Characters,51,"2006, May",2006
+570,Phillip Mason (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,51,"1959, August",1959
+571,"Artemis, Goddess of the Hunt (New Earth)",Public Identity,Neutral Characters,Blue Eyes,Red Hair,Living Characters,51,"1987, February",1987
+572,Joar Mahkent (New Earth),Secret Identity,Bad Characters,Blue Eyes,Red Hair,Deceased Characters,51,"1947, October",1947
+573,Mark Moonrider (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,51,"1971, March",1971
+574,Serifan (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,51,"1971, March",1971
+575,Machiste (New Earth),Public Identity,Good Characters,Brown Eyes,Unknown or None,Living Characters,51,"1976, April",1976
+576,Copperhead (New Earth),Secret Identity,Bad Characters,Brown Eyes,Unknown or None,Deceased Characters,51,"1968, July",1968
+577,Katherine Kane (New Earth),Secret Identity,Good Characters,Green Eyes,Red Hair,Living Characters,51,"2006, June",2006
+578,Rex Leech (New Earth),Public Identity,Neutral Characters,Hazel Eyes,Brown Hair,Living Characters,51,"1993, February",1993
+579,Andrew Bennett (New Earth),Secret Identity,Good Characters,Red Eyes,Black Hair,Living Characters,51,"1981, March",1981
+580,Jayne Payton (New Earth),Public Identity,Neutral Characters,Unknown or None,Red Hair,Living Characters,51,"1988, October",1988
+581,Mad Harriet (New Earth),Secret Identity,Bad Characters,Black Eyes,Green Hair,Deceased Characters,50,"1972, February",1972
+582,"Henry King, Sr. (New Earth)",Public Identity,Bad Characters,Blue Eyes,Unknown or None,Deceased Characters,50,"1943, February",1943
+583,Chester Williams (New Earth),Public Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,50,"1985, December",1985
+584,Angela Roth (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,50,"1981, January",1981
+585,Christopher King (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,50,"1981, February",1981
+586,Donald Hall (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,50,"1968, June",1968
+587,Lonnie Machin (New Earth),Secret Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,50,"1989, November",1989
+588,Koryak (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Deceased Characters,50,"1995, January",1995
+589,Vykin the Black (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Deceased Characters,50,"1971, March",1971
+590,Lyrl Dox (New Earth),Public Identity,Bad Characters,Green Eyes,Blond Hair,Living Characters,50,"1991, June",1991
+591,Sodam Yat (New Earth),Public Identity,Good Characters,Green Eyes,Black Hair,Living Characters,50,1986,1986
+592,Scar (New Earth),Secret Identity,Bad Characters,Black Eyes,Unknown or None,Deceased Characters,49,"2008, January",2008
+593,Bernadeth (New Earth),Secret Identity,Bad Characters,Brown Eyes,Black Hair,Living Characters,49,"1972, February",1972
+594,Mortimer Jibbet (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,49,"1939, April",1939
+595,Lor-Zod (New Earth),Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,49,"2006, December",2006
+596,Mary Loyd (New Earth),Public Identity,Unknown or None,Green Eyes,Black Hair,Deceased Characters,49,"1989, August",1989
+597,Jay Abrams (New Earth),Secret Identity,Good Characters,Grey Eyes,Black Hair,Living Characters,49,"1971, February",1971
+598,Blaze (New Earth),Secret Identity,Bad Characters,Red Eyes,Black Hair,Living Characters,49,"1990, July",1990
+599,Jeffrey Graves (New Earth),Secret Identity,Unknown or None,Unknown or None,Brown Hair,Living Characters,49,"2007, February",2007
+600,Otto von Furth (New Earth),Secret Identity,Bad Characters,Yellow Eyes,Unknown or None,Deceased Characters,49,"1981, December",1981
+601,Aristotle Rodor (New Earth),Public Identity,Unknown or None,Blue Eyes,White Hair,Living Characters,48,"1987, February",1987
+602,Mona Bennett (New Earth),Unknown,Good Characters,Blue Eyes,Blond Hair,Living Characters,48,"1963, July",1963
+603,Traci Thirteen (New Earth),Public Identity,Unknown or None,Brown Eyes,Black Hair,Living Characters,48,"2003, February",2003
+604,Yrra Cynril (New Earth),Secret Identity,Neutral Characters,Brown Eyes,Black Hair,Living Characters,48,"1997, February",1997
+605,Harold Jordan (New Earth),Secret Identity,Unknown or None,Brown Eyes,Brown Hair,Deceased Characters,48,"1978, January",1978
+606,Hugo Strange (New Earth),Public Identity,Bad Characters,Grey Eyes,Unknown or None,Living Characters,48,"1940, February",1940
+607,Iolande (New Earth),Public Identity,Good Characters,Purple Eyes,Black Hair,Living Characters,48,"2006, August",2006
+608,Jonathan Gabrielli II (New Earth),Secret Identity,Good Characters,Unknown or None,Black Hair,Living Characters,48,"1970, October",1970
+609,Linda Strauss (New Earth),Secret Identity,Good Characters,Unknown or None,Blond Hair,Deceased Characters,48,"1987, July",1987
+610,Neptune Perkins (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,47,"1945, August",1945
+611,Joseph Jones (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,47,"1991, January",1991
+612,Matthew Ryder (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,47,"1991, September",1991
+613,Irene Miller (New Earth),Public Identity,Good Characters,Grey Eyes,Black Hair,Living Characters,47,"1940, September",1940
+614,Keith Kenyon (New Earth),Public Identity,Bad Characters,Unknown or None,Unknown or None,Living Characters,47,"1965, July",1965
+615,Amelia Hunkel (New Earth),Secret Identity,Good Characters,Unknown or None,Unknown or None,Living Characters,47,"1939, June",1939
+616,Alec Holland (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,46,"1972, November",1972
+617,Helen Claiborne (New Earth),Public Identity,Neutral Characters,Blue Eyes,Black Hair,Living Characters,46,"1995, June",1995
+618,Bito Wladon (New Earth),Secret Identity,Bad Characters,Blue Eyes,Black Hair,Living Characters,46,"1962, July",1962
+619,Mary Elizabeth Kane (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,46,1989,1989
+620,Miya Shimada (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,46,"1984, May",1984
+621,Crystal Brown (New Earth),Public Identity,Good Characters,Green Eyes,Brown Hair,Living Characters,46,"1992, August",1992
+622,Joseph Chilton (New Earth),Public Identity,Bad Characters,Hazel Eyes,Blond Hair,Deceased Characters,46,"1987, February",1987
+623,Duncan Pramble (New Earth),Secret Identity,Bad Characters,Hazel Eyes,Unknown or None,Living Characters,46,"1960, July",1960
+624,Stompa (New Earth),Public Identity,Bad Characters,Unknown or None,Strawberry Blond Hair,Living Characters,46,"1972, February",1972
+625,Mark Scheffer (New Earth),Secret Identity,Bad Characters,Unknown or None,Unknown or None,Living Characters,46,"1988, April",1988
+626,Hooty the Owl (New Earth),Unknown,Good Characters,Unknown or None,Brown Hair,Living Characters,46,"1941, April",1941
+627,Poseidon (New Earth),Public Identity,Neutral Characters,White Eyes,White Hair,Living Characters,46,"1940, September",1940
+628,Siobhan McDougal (New Earth),Secret Identity,Bad Characters,White Eyes,White Hair,Living Characters,46,"1987, December",1987
+629,Wendy Jones (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,45,"1984, April",1984
+630,Calvin Carson (New Earth),Public Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,45,"1960, August",1960
+631,Richard Drakunovski (New Earth),Public Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,45,"1975, May",1975
+632,Mist I (New Earth),Secret Identity,Bad Characters,Blue Eyes,White Hair,Deceased Characters,45,"1941, October",1941
+633,Arani Desai (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,45,"1977, September",1977
+634,Rodney Gaynor (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,45,"1940, January",1940
+635,Ryan Choi (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,45,"2006, August",2006
+636,Gregory Sanders (New Earth),Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,45,"1941, November",1941
+637,Ion (New Earth),Secret Identity,Good Characters,Green Eyes,Unknown or None,Deceased Characters,45,"2006, April",2006
+638,Duela Dent (Earth-3),Secret Identity,Neutral Characters,Purple Eyes,Red Hair,Deceased Characters,45,"1976, August",1976
+639,Hunter Zolomon (New Earth),Secret Identity,Bad Characters,Red Eyes,Brown Hair,Living Characters,45,"2001, November",2001
+640,Doc (New Earth),Public Identity,Good Characters,Unknown or None,Unknown or None,Living Characters,45,"1983, June",1983
+641,Karshon (New Earth),Unknown,Bad Characters,Black Eyes,Unknown or None,Living Characters,44,"1963, October",1963
+642,Morgan Edge (New Earth),Public Identity,Bad Characters,Blue Eyes,Unknown or None,Living Characters,44,"1988, January",1988
+643,Lara Lor-Van (New Earth),Public Identity,Unknown or None,Blue Eyes,Black Hair,Deceased Characters,44,"1986, October",1986
+644,Selinda Flinders (New Earth),Secret Identity,Bad Characters,Blue Eyes,Red Hair,Living Characters,44,"1981, January",1981
+645,Gavyn (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,44,"1980, January",1980
+646,Lisa Snart (New Earth),Unknown,Unknown or None,Blue Eyes,Blond Hair,Deceased Characters,44,"1977, June",1977
+647,Sean Noonan (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Deceased Characters,44,1993,1993
+648,"William Everett, Sr. (New Earth)",Public Identity,Good Characters,Brown Eyes,Black Hair,Deceased Characters,44,"1983, July",1983
+649,Jon Valor (New Earth),Secret Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,44,"1940, April",1940
+650,Rhosyn Forrest (New Earth),Secret Identity,Good Characters,Green Eyes,Unknown or None,Living Characters,44,"1986, March",1986
+651,John Grayson (New Earth),Public Identity,Good Characters,Unknown or None,Black Hair,Deceased Characters,44,"1989, August",1989
+652,Elaine Marsh-Morton (New Earth),Secret Identity,Bad Characters,Unknown or None,Blond Hair,Living Characters,44,"1997, January",1997
+653,Victoria Grant (New Earth),Unknown,Good Characters,Unknown or None,Blond Hair,Living Characters,44,"1981, February",1981
+654,Larfleeze (New Earth),Public Identity,Neutral Characters,Yellow Eyes,Orange Hair,Living Characters,44,"2008, June",2008
+655,Dru-Zod II (New Earth),Public Identity,Bad Characters,Black Eyes,Black Hair,Living Characters,43,"1961, April",1961
+656,Sandra Knight (New Earth),Secret Identity,Good Characters,Black Eyes,Black Hair,Living Characters,43,"1987, June",1987
+657,Alura In-Ze (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,43,"2004, June",2004
+658,Axel Walker (New Earth),Secret Identity,Unknown or None,Blue Eyes,Blond Hair,Living Characters,43,"2002, April",2002
+659,Louis Kiyahani (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,43,"1963, February",1963
+660,Emmaline Brady (New Earth),Public Identity,Unknown or None,Brown Eyes,Brown Hair,Living Characters,43,"1962, December",1962
+661,Elizabeth Chapel (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Deceased Characters,43,"1985, October",1985
+662,Zachary Zatara (New Earth),Public Identity,Good Characters,Green Eyes,Black Hair,Living Characters,43,"2006, May",2006
+663,Iris West II (New Earth),Secret Identity,Good Characters,Green Eyes,Red Hair,Living Characters,43,"1999, March",1999
+664,Beverly Lewis (New Earth),Unknown,Unknown or None,Green Eyes,Red Hair,Living Characters,43,"1980, May",1980
+665,Teekl (New Earth),Public Identity,Neutral Characters,Red Eyes,Orange Hair,Living Characters,43,"1973, March",1973
+666,Xiang Po (New Earth),Secret Identity,Good Characters,Red Eyes,Unknown or None,Deceased Characters,43,"1988, January",1988
+667,Harry Matthews (New Earth),Public Identity,Good Characters,Unknown or None,Brown Hair,Living Characters,43,"1972, September",1972
+668,Borb Borbb (New Earth),Public Identity,Good Characters,Unknown or None,Unknown or None,Living Characters,43,"1991, August",1991
+669,Jock Kellogg (New Earth),Secret Identity,Good Characters,Unknown or None,Black Hair,Deceased Characters,43,"1940, July",1940
+670,Edward Indelicato (New Earth),Unknown,Good Characters,Unknown or None,Brown Hair,Living Characters,43,"1988, April",1988
+671,Zilius Zox (New Earth),Public Identity,Bad Characters,Yellow Eyes,Unknown or None,Deceased Characters,43,"2008, December",2008
+672,Paco Testas (New Earth),Public Identity,Good Characters,Black Eyes,Brown Hair,Living Characters,42,"2006, February",2006
+673,Janu (New Earth),Public Identity,Good Characters,Black Eyes,Brown Hair,Living Characters,42,"1954, April",1954
+674,Rama Kushna (New Earth),Public Identity,Neutral Characters,Black Eyes,Black Hair,Living Characters,42,"1967, October",1967
+675,Glorious Godfrey (New Earth),Secret Identity,Bad Characters,Black Eyes,Red Hair,Living Characters,42,"1971, July",1971
+676,"Roy Raymond, Jr. (New Earth)",Secret Identity,Good Characters,Black Eyes,Blond Hair,Living Characters,42,"1997, February",1997
+677,William Walker (New Earth),Secret Identity,Neutral Characters,Black Eyes,Black Hair,Deceased Characters,42,"1971, July",1971
+678,Traya Sutton (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,42,"1978, March",1978
+679,Myra Mason (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,42,"1941, April",1941
+680,Laura De Mille (New Earth),Secret Identity,Bad Characters,Blue Eyes,Black Hair,Deceased Characters,42,"1964, March",1964
+681,Helga Jace (New Earth),Secret Identity,Bad Characters,Blue Eyes,Grey Hair,Deceased Characters,42,"1983, August",1983
+682,Rac Shade (New Earth),Secret Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,42,"1977, July",1977
+683,June Robbins (New Earth),Secret Identity,Good Characters,Blue Eyes,Strawberry Blond Hair,Living Characters,42,"1957, April",1957
+684,Appa Ali Apsa (New Earth),Secret Identity,Unknown or None,Blue Eyes,White Hair,Deceased Characters,42,"1970, April",1970
+685,William Henderson (New Earth),Public Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,42,"1987, January",1987
+686,Mitchell Shelley (New Earth),Public Identity,Good Characters,Brown Eyes,White Hair,Living Characters,42,"1997, May",1997
+687,Audrey Spears (New Earth),Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,42,"1996, October",1996
+688,Edward Raymond (New Earth),Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,42,"1978, April",1978
+689,Harold Allnut (New Earth),Public Identity,Good Characters,Unknown or None,Blond Hair,Deceased Characters,42,"1989, December",1989
+690,Nathaniel Kane (New Earth),Public Identity,Good Characters,Unknown or None,Brown Hair,Living Characters,42,"1992, December",1992
+691,Source (New Earth),Secret Identity,Neutral Characters,Unknown or None,Unknown or None,Living Characters,42,"1971, March",1971
+692,Ariana Dzerchenko (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,41,"1992, December",1992
+693,Phoebus Apollo (New Earth),Public Identity,Neutral Characters,Blue Eyes,Blond Hair,Living Characters,41,"1941, December",1941
+694,Veronica Cale (New Earth),Public Identity,Unknown or None,Blue Eyes,Blond Hair,Living Characters,41,"2003, November",2003
+695,Lazarus Lane (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,41,"1970, November",1970
+696,Abel (New Earth),Secret Identity,Neutral Characters,Blue Eyes,Black Hair,Living Characters,41,"1969, July",1969
+697,Josephine MacDonald (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,41,"2001, December",2001
+698,Strong Bow (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Deceased Characters,41,"1951, May",1951
+699,Arthur Pendragon (New Earth),Public Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,41,"1936, February",1936
+700,Demeter (New Earth),Public Identity,Neutral Characters,Brown Eyes,Unknown or None,Living Characters,41,"1985, October",1985
+701,Catalina Flores (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Deceased Characters,41,"2002, September",2002
+702,Sayd (New Earth),Public Identity,Good Characters,Green Eyes,White Hair,Living Characters,41,"2007, August",2007
+703,Patrick MacGuire II (New Earth),Secret Identity,Good Characters,Unknown or None,Red Hair,Living Characters,41,"1970, October",1970
+704,Iroque (New Earth),Secret Identity,Neutral Characters,Unknown or None,Purple Hair,Living Characters,41,"2008, January",2008
+705,Dana Winters (New Earth),Unknown,Unknown or None,Unknown or None,Unknown or None,Deceased Characters,41,"1994, December",1994
+706,Manitou Raven (New Earth),Secret Identity,Good Characters,White Eyes,Black Hair,Deceased Characters,41,"2002, July",2002
+707,Jessica Midnight (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,40,"2002, October",2002
+708,Christopher Chance (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,40,"1972, December",1972
+709,Donna Carol Force (New Earth),Public Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,40,1993,1993
+710,Mariah Romanova (New Earth),Public Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,40,"1977, May",1977
+711,Harold Shapiro (New Earth),Public Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,40,"1961, December",1961
+712,Jenet Klyburn (New Earth),Public Identity,Unknown or None,Blue Eyes,Red Hair,Living Characters,40,"1976, October",1976
+713,Jai West (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,40,"2005, October",2005
+714,Brenda Del Vecchio (New Earth),Public Identity,Good Characters,Brown Eyes,Red Hair,Living Characters,40,"2006, February",2006
+715,Eve Aries (Pre-Zero Hour),Public Identity,Bad Characters,Green Eyes,Red Hair,Living Characters,40,"1961, August",1961
+716,Stacy (New Earth),Public Identity,Neutral Characters,Green Eyes,Red Hair,Living Characters,40,"2000, March",2000
+717,Alexander Sartorius (New Earth),Public Identity,Bad Characters,Red Eyes,Unknown or None,Living Characters,40,"1977, May",1977
+718,Maurice Douglas (New Earth),Public Identity,Good Characters,Unknown or None,Brown Hair,Deceased Characters,40,"1992, October",1992
+719,Eric Strauss (New Earth),Secret Identity,Good Characters,Unknown or None,Brown Hair,Living Characters,40,"1987, July",1987
+720,Thomas Thompkins II (New Earth),Secret Identity,Good Characters,Unknown or None,Brown Hair,Living Characters,40,"1970, October",1970
+721,Thaddeus Ryerstad (New Earth),Unknown,Bad Characters,Unknown or None,Blond Hair,Living Characters,40,"1997, May",1997
+722,Serling Roquette (New Earth),Unknown,Unknown or None,Unknown or None,Blond Hair,Living Characters,40,"1998, October",1998
+723,Mongul II (New Earth),Public Identity,Bad Characters,White Eyes,Unknown or None,Living Characters,40,"1995, September",1995
+724,Anthony Woodward (New Earth),Secret Identity,Bad Characters,Yellow Eyes,Unknown or None,Living Characters,40,"2001, August",2001
+725,Preston Lindsay (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,39,"1995, April",1995
+726,Artemis Crock (New Earth),Secret Identity,Bad Characters,Blue Eyes,Unknown or None,Living Characters,39,"1987, January",1987
+727,Ursa (New Earth),Public Identity,Bad Characters,Brown Eyes,Brown Hair,Living Characters,39,"2007, January",2007
+728,Shilo Norman (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,39,"1973, September",1973
+729,Amon Tomaz (New Earth),Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Living Characters,39,"2006, October",2006
+730,John Dee (New Earth),Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Living Characters,39,"1961, July",1961
+731,William Everett III (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Deceased Characters,39,"1994, March",1994
+732,Taleb Beni Khalid (New Earth),Secret Identity,Neutral Characters,Brown Eyes,Brown Hair,Living Characters,39,"2006, June",2006
+733,Faith (New Earth),Secret Identity,Unknown or None,Brown Eyes,Brown Hair,Living Characters,39,"2002, October",2002
+734,Frieda Goren (Dakotaverse),Public Identity,Good Characters,Green Eyes,Red Hair,Living Characters,39,"1993, June",1993
+735,Dudley Soames (New Earth),Public Identity,Bad Characters,Hazel Eyes,Brown Hair,Deceased Characters,39,"1996, October",1996
+736,Tegra Kalmaku (New Earth),Public Identity,Good Characters,Unknown or None,Black Hair,Living Characters,39,"1961, August",1961
+737,Richard Craemer (New Earth),Public Identity,Good Characters,Unknown or None,Brown Hair,Living Characters,39,"1988, February",1988
+738,Menalippe (New Earth),Public Identity,Good Characters,Unknown or None,Unknown or None,Deceased Characters,39,"1987, February",1987
+739,Sydney Happersen (New Earth),Public Identity,Unknown or None,Unknown or None,Black Hair,Deceased Characters,39,"1987, February",1987
+740,Robert Daley (New Earth),Secret Identity,Good Characters,Unknown or None,Unknown or None,Living Characters,39,"1938, July",1938
+741,Fang Zhifu (New Earth),Secret Identity,Unknown or None,Unknown or None,Unknown or None,Living Characters,39,"2006, June",2006
+742,Skallox (New Earth),Public Identity,Bad Characters,Yellow Eyes,Unknown or None,Living Characters,39,"2008, December",2008
+743,Aleea Strange (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,38,"1990, May",1990
+744,Sigrid Nansen (New Earth),Public Identity,Good Characters,Blue Eyes,White Hair,Living Characters,38,"1986, November",1986
+745,Kole Weathers (New Earth),Secret Identity,Good Characters,Blue Eyes,Red Hair,Deceased Characters,38,"1985, June",1985
+746,Anatoli Knyazev (New Earth),Public Identity,Bad Characters,Brown Eyes,Blond Hair,Deceased Characters,38,"1988, March",1988
+747,Arthur Hall (New Earth),Public Identity,Good Characters,Brown Eyes,White Hair,Living Characters,38,"1982, December",1982
+748,Adrianna Tomaz (New Earth),Public Identity,Neutral Characters,Brown Eyes,Brown Hair,Deceased Characters,38,"2006, May",2006
+749,Cyril Sheldrake (New Earth),Secret Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,38,"1950, December",1950
+750,Mister Mind (New Earth),Secret Identity,Bad Characters,Red Eyes,Unknown or None,Living Characters,38,"1943, March",1943
+751,Brainiac 8 (New Earth),Secret Identity,Good Characters,Red Eyes,Pink Hair,Deceased Characters,38,"2003, July",2003
+752,Amy Rohrbach (New Earth),Public Identity,Good Characters,Unknown or None,Brown Hair,Living Characters,38,"2000, October",2000
+753,Davroth Catto (New Earth),Public Identity,Good Characters,Unknown or None,Brown Hair,Living Characters,38,"1991, August",1991
+754,James Cameron (New Earth),Public Identity,Good Characters,Unknown or None,Brown Hair,Living Characters,38,"1987, September",1987
+755,Zena Moonstruk (New Earth),Public Identity,Good Characters,Unknown or None,White Hair,Living Characters,38,"1991, August",1991
+756,Robert Reed (New Earth),Secret Identity,Good Characters,Unknown or None,Blond Hair,Living Characters,38,"1966, January",1966
+757,Keith Everet (New Earth),Secret Identity,Good Characters,Unknown or None,Brown Hair,Living Characters,38,"1942, January",1942
+758,Solovar (New Earth),Secret Identity,Unknown or None,Unknown or None,Black Hair,Deceased Characters,38,"1959, May",1959
+759,James Jordan (New Earth),Unknown,Good Characters,Unknown or None,Brown Hair,Living Characters,38,"1961, December",1961
+760,Predator (New Earth),Unknown,Unknown or None,Unknown or None,Unknown or None,Deceased Characters,38,"1984, July",1984
+761,John Jones (New Earth),Public Identity,Good Characters,Black Eyes,Unknown or None,Living Characters,37,"1942, August",1942
+762,Bat-Mite (New Earth),Secret Identity,Good Characters,Black Eyes,Unknown or None,Living Characters,37,"1959, May",1959
+763,Lawrence Belmont (New Earth),Public Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,37,"1940, February",1940
+764,Elizabeth Tremayne (New Earth),Public Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,37,"1982, July",1982
+765,Joan Dale (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,37,"1941, August",1941
+766,Lance Gallant (Earth-X),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,37,"1943, January",1943
+767,Amy Allen (New Earth),Secret Identity,Neutral Characters,Blue Eyes,Brown Hair,Living Characters,37,"2006, November",2006
+768,Lawrence Crock (New Earth),Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Living Characters,37,"1947, May",1947
+769,Walter Johnson II (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,37,"1970, October",1970
+770,Thara Ak-Var (New Earth),Secret Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,37,"2008, December",2008
+771,Isaiah Crockett (New Earth),Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,37,"1996, October",1996
+772,Azrael (New Earth),Public Identity,Neutral Characters,Gold Eyes,Black Hair,Living Characters,37,"1985, April",1985
+773,Kathleen Sutton (New Earth),Public Identity,Good Characters,Unknown or None,Blond Hair,Living Characters,37,"1973, July",1973
+774,Lonocelu Ospho (New Earth),Public Identity,Good Characters,Unknown or None,Unknown or None,Living Characters,37,"1985, May",1985
+775,Jemm (New Earth),Public Identity,Good Characters,Yellow Eyes,Unknown or None,Living Characters,37,"1984, September",1984
+776,Larvox (New Earth),Public Identity,Good Characters,Black Eyes,Orange Hair,Living Characters,36,"1961, December",1961
+777,Robert Hinckley Long (New Earth),Public Identity,Neutral Characters,Black Eyes,Red Hair,Deceased Characters,36,"1992, September",1992
+778,Non (New Earth),Public Identity,Bad Characters,Blue Eyes,Black Hair,Living Characters,36,"2007, January",2007
+779,Stormy Knight (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,36,"2006, June",2006
+780,Zor-El (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,36,"2004, June",2004
+781,Sarah Simms (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,36,"1981, June",1981
+782,Glenda Mark (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,36,"1972, September",1972
+783,Hephaestus (New Earth),Public Identity,Neutral Characters,Blue Eyes,White Hair,Living Characters,36,"1941, December",1941
+784,Ramsey Robinson (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,36,"2004, November",2004
+785,Charlotte Gage-Radcliffe (New Earth),Secret Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,36,"2006, September",2006
+786,Maximillian Zeus (New Earth),Public Identity,Bad Characters,Brown Eyes,Brown Hair,Living Characters,36,"1979, May",1979
+787,Anthro (New Earth),Public Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,36,"1968, May",1968
+788,Thomas Ludlow Hallaway (New Earth),Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Deceased Characters,36,"1940, May",1940
+789,Anthony Rodriguez II (New Earth),Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,36,"1970, October",1970
+790,Shado (New Earth),Secret Identity,Neutral Characters,Brown Eyes,Black Hair,Living Characters,36,"1987, August",1987
+791,Mark Desmond (New Earth),Public Identity,Bad Characters,Hazel Eyes,Brown Hair,Deceased Characters,36,"1965, November",1965
+792,Mordru (New Earth),Public Identity,Bad Characters,Hazel Eyes,Unknown or None,Living Characters,36,"1968, June",1968
+793,Tobias Whale (New Earth),Public Identity,Bad Characters,Pink Eyes,Unknown or None,Living Characters,36,"1977, April",1977
+794,Bruno Mannheim (New Earth),Public Identity,Bad Characters,Unknown or None,Unknown or None,Deceased Characters,36,"1971, July",1971
+795,Andrew Franklin (New Earth),Secret Identity,Good Characters,Unknown or None,Unknown or None,Living Characters,36,"2006, June",2006
+796,Bridget Clancy (New Earth),Unknown,Good Characters,Unknown or None,Black Hair,Living Characters,36,"1996, November",1996
+797,Joshua Morgan (New Earth),Unknown,Good Characters,Unknown or None,Red Hair,Living Characters,36,"1978, November",1978
+798,Munk (New Earth),Secret Identity,Good Characters,White Eyes,Unknown or None,Living Characters,36,"2008, January",2008
+799,Merayn Dethalis (New Earth),Public Identity,Good Characters,Yellow Eyes,Purple Hair,Living Characters,36,"1993, December",1993
+800,Lady Chian (New Earth),Unknown,Good Characters,Black Eyes,Black Hair,Living Characters,35,"1982, March",1982
+801,Frederick Chyre (New Earth),Public Identity,Good Characters,Blue Eyes,Grey Hair,Living Characters,35,"2000, September",2000
+802,Mary James (New Earth),Public Identity,Good Characters,Blue Eyes,Strawberry Blond Hair,Deceased Characters,35,"1940, October",1940
+803,Laura Neilsen (New Earth),Public Identity,Good Characters,Blue Eyes,White Hair,Deceased Characters,35,"1971, February",1971
+804,Myra Connelly (New Earth),Public Identity,Unknown or None,Blue Eyes,Unknown or None,Living Characters,35,"1987, February",1987
+805,General Immortus (New Earth),Secret Identity,Bad Characters,Blue Eyes,Unknown or None,Living Characters,35,"1963, June",1963
+806,Jeannette (New Earth),Secret Identity,Bad Characters,Blue Eyes,White Hair,Living Characters,35,"2009, January",2009
+807,Arthur Joseph Curry (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,35,"2006, May",2006
+808,Beryl Hutchinson (New Earth),Secret Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,35,"1999, February",1999
+809,Gardner Grayle (New Earth),Secret Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,35,"1983, May",1983
+810,Jeffrey Smith (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,35,"1990, February",1990
+811,Carla White (New Earth),Public Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,35,"1992, October",1992
+812,Michael Lane (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,35,"2007, June",2007
+813,Delilah Tyler (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Deceased Characters,35,"1989, January",1989
+814,Sebastian Blood VIII (New Earth),Secret Identity,Bad Characters,Grey Eyes,Black Hair,Deceased Characters,35,"1982, July",1982
+815,Varix (New Earth),Public Identity,Good Characters,Unknown or None,White Hair,Deceased Characters,35,1986,1986
+816,Mickey Cannon (New Earth),Unknown,Good Characters,Unknown or None,Brown Hair,Living Characters,35,"1998, October",1998
+817,Elsa Magnusson (New Earth),Unknown,Good Characters,Unknown or None,Unknown or None,Living Characters,35,"1959, August",1959
+818,Rhea Jones (New Earth),Secret Identity,Good Characters,White Eyes,Red Hair,Living Characters,35,"1987, December",1987
+819,Dex-Starr (New Earth),Public Identity,Bad Characters,Yellow Eyes,Blue Hair,Living Characters,35,"2008, December",2008
+820,Samuel Makoa (New Earth),Public Identity,Good Characters,Black Eyes,Black Hair,Living Characters,34,"1994, February",1994
+821,Oswald Loomis (New Earth),Public Identity,Bad Characters,Blue Eyes,Brown Hair,Living Characters,34,"1988, April",1988
+822,Courtney Mason (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,34,"1993, July",1993
+823,Diane Meade (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,34,"1957, August",1957
+824,Bonnie Baxter (New Earth),Public Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,34,"1990, February",1990
+825,Prometheus (New Earth),Secret Identity,Bad Characters,Blue Eyes,White Hair,Deceased Characters,34,"1998, February",1998
+826,Jack Wheeler (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,34,"1987, September",1987
+827,Brian Kent (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,34,"1955, September",1955
+828,King Standish (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,34,"1940, March",1940
+829,Natasha Ulyanov (New Earth),Unknown,Bad Characters,Blue Eyes,Blond Hair,Living Characters,34,"1986, August",1986
+830,Frankenstein (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,34,"2006, January",2006
+831,Onyx Adams (New Earth),Public Identity,Unknown or None,Brown Eyes,Unknown or None,Living Characters,34,"1985, January",1985
+832,Augustus Freeman (Dakotaverse),Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,34,"1993, May",1993
+833,Sebastian Ives (New Earth),Public Identity,Good Characters,Unknown or None,Blond Hair,Living Characters,34,"1991, October",1991
+834,Hath-Set (New Earth),Secret Identity,Bad Characters,Unknown or None,Unknown or None,Deceased Characters,34,"1940, January",1940
+835,Valerie Kameya (Dakotaverse),Secret Identity,Good Characters,Unknown or None,Black Hair,Living Characters,34,"1994, January",1994
+836,Mikhail Arkadin (New Earth),Secret Identity,Good Characters,Unknown or None,Brown Hair,Living Characters,34,"1987, October",1987
+837,Nimbus (New Earth),Secret Identity,Good Characters,White Eyes,Unknown or None,Living Characters,34,"1981, June",1981
+838,Charlie the Owl (New Earth),Public Identity,Good Characters,Amber Eyes,Unknown or None,Living Characters,33,"1999, February",1999
+839,Bloodwynd (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,33,"1993, July",1993
+840,Felicity Smoak (New Earth),Public Identity,Neutral Characters,Blue Eyes,Black Hair,Living Characters,33,"1984, May",1984
+841,Jewelee (New Earth),Secret Identity,Bad Characters,Blue Eyes,Blond Hair,Living Characters,33,"1988, July",1988
+842,Darla Aquista (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,33,"2004, February",2004
+843,Jonathan Fox (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,33,1990,1990
+844,Patricia Trayce (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,33,"1992, January",1992
+845,Rod Reilly (New Earth),Secret Identity,Good Characters,Blue Eyes,Brown Hair,Deceased Characters,33,"1941, August",1941
+846,May Bennett (New Earth),Unknown,Neutral Characters,Blue Eyes,Brown Hair,Living Characters,33,"1982, July",1982
+847,Isuma Yasunari (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Deceased Characters,33,"1982, June",1982
+848,Monitor Bob,Unknown,Neutral Characters,Red Eyes,Black Hair,Deceased Characters,33,"2007, July",2007
+849,Ubu (New Earth),Public Identity,Bad Characters,Unknown or None,Unknown or None,Living Characters,33,"1971, June",1971
+850,Peter Merkel (New Earth),Secret Identity,Bad Characters,Unknown or None,Red Hair,Deceased Characters,33,"1942, December",1942
+851,Lester Buchinsky (New Earth),Secret Identity,Bad Characters,Unknown or None,Unknown or None,Deceased Characters,33,"1992, May",1992
+852,Sensei (New Earth),Secret Identity,Bad Characters,Unknown or None,White Hair,Living Characters,33,"1968, December",1968
+853,Leroy Johnson (New Earth),Unknown,Good Characters,Unknown or None,Unknown or None,Deceased Characters,33,"1965, April",1965
+854,Simon LaGrieve (New Earth),Unknown,Neutral Characters,Unknown or None,Grey Hair,Living Characters,33,"1987, May",1987
+855,Marcia King (New Earth),Public Identity,Good Characters,Auburn Hair,Unknown or None,Living Characters,32,"1984, April",1984
+856,Hades (New Earth),Public Identity,Neutral Characters,Black Eyes,Black Hair,Living Characters,32,"1941, December",1941
+857,Amos Fortune (New Earth),Secret Identity,Bad Characters,Black Eyes,Black Hair,Living Characters,32,"1961, September",1961
+858,Aaron Helzinger (New Earth),Secret Identity,Bad Characters,Black Eyes,Unknown or None,Living Characters,32,"1992, August",1992
+859,Joseph Martin (New Earth),Secret Identity,Bad Characters,Black Eyes,Unknown or None,Living Characters,32,"1991, October",1991
+860,Julian Day (New Earth),Secret Identity,Bad Characters,Black Eyes,Unknown or None,Living Characters,32,"1958, September",1958
+861,Ira Quimby (New Earth),Public Identity,Bad Characters,Blue Eyes,Brown Hair,Living Characters,32,"1963, November",1963
+862,Atlan (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,32,"1990, July",1990
+863,William Vickers (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,32,"1984, September",1984
+864,Steven Smith (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,32,"1972, October",1972
+865,Corky Baxter (New Earth),Public Identity,Good Characters,Blue Eyes,Brown Hair,Deceased Characters,32,"1990, March",1990
+866,Marla Bloom (New Earth),Public Identity,Good Characters,Blue Eyes,Unknown or None,Deceased Characters,32,"1984, June",1984
+867,Santa Claus,Public Identity,Good Characters,Blue Eyes,White Hair,Living Characters,32,1940,1940
+868,Albrecht Krieger (New Earth),Secret Identity,Bad Characters,Blue Eyes,Blond Hair,Living Characters,32,"1995, July",1995
+869,Gerri Brauer (Dakotaverse),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,32,"1994, January",1994
+870,Michelle Carter (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,32,"1986, July",1986
+871,William Tockman (New Earth),Unknown,Bad Characters,Blue Eyes,Black Hair,Deceased Characters,32,"1960, August",1960
+872,Boris Ulyanov (New Earth),Unknown,Bad Characters,Blue Eyes,Blond Hair,Living Characters,32,"1986, August",1986
+873,Chester Runk (New Earth),Public Identity,Unknown or None,Brown Eyes,Black Hair,Living Characters,32,"1988, February",1988
+874,Eric Needham (New Earth),Secret Identity,Bad Characters,Brown Eyes,Black Hair,Living Characters,32,"1976, September",1976
+875,Simon Hurt (New Earth),Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Living Characters,32,"1963, June",1963
+876,Mortimer Drake (New Earth),Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Living Characters,32,"1943, November",1943
+877,Ulysses Hazard (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,32,"1977, August",1977
+878,Space Cabby (New Earth),Secret Identity,Unknown or None,Brown Eyes,Brown Hair,Living Characters,32,"1954, September",1954
+879,Tweedledum and Tweedledee (New Earth),Secret Identity,Bad Characters,Green Eyes,Unknown or None,Living Characters,32,"1943, April",1943
+880,Wendy Kuttler (New Earth),Secret Identity,Good Characters,Green Eyes,Black Hair,Living Characters,32,"2006, May",2006
+881,Tawky Tawny (New Earth),Public Identity,Good Characters,Orange Eyes,Orange Hair,Living Characters,32,"1995, June",1995
+882,Joshua Saunders (New Earth),Unknown,Good Characters,Red Eyes,Unknown or None,Deceased Characters,32,"1996, June",1996
+883,Elinore Lane (New Earth),Public Identity,Good Characters,Unknown or None,Black Hair,Living Characters,32,"1959, November",1959
+884,Deadline (New Earth),Secret Identity,Bad Characters,Unknown or None,Unknown or None,Living Characters,32,"1989, October",1989
+885,Liri Lee (New Earth),Secret Identity,Good Characters,Unknown or None,Blond Hair,Living Characters,32,"1991, September",1991
+886,Aleksandr Creote (New Earth),Secret Identity,Good Characters,Unknown or None,Brown Hair,Living Characters,32,"2003, August",2003
+887,Takeo Yakata (New Earth),Secret Identity,Good Characters,Unknown or None,Unknown or None,Deceased Characters,32,"1988, January",1988
+888,Harry Chawney (Dakotaverse),Secret Identity,Good Characters,White Eyes,Grey Hair,Living Characters,32,"1994, January",1994
+889,William MacIntyre (New Earth),Secret Identity,Good Characters,White Eyes,White Hair,Deceased Characters,32,"1994, August",1994
+890,Prince Topaz (New Earth),Public Identity,Good Characters,Yellow Eyes,Blond Hair,Living Characters,32,"1983, August",1983
+891,Chandi Gupta (New Earth),Secret Identity,Good Characters,Black Eyes,Black Hair,Living Characters,31,"1993, February",1993
+892,Marcus Driver (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,31,"2003, February",2003
+893,Andre Twist (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,31,"2006, June",2006
+894,Benjamin Lockwood (New Earth),Secret Identity,Good Characters,Blue Eyes,Brown Hair,Deceased Characters,31,"1991, October",1991
+895,Jared Morillo (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,31,"2001, April",2001
+896,Atlanna (New Earth),Public Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,31,"1959, May",1959
+897,Lynn Stewart (New Earth),Public Identity,Neutral Characters,Brown Eyes,Black Hair,Living Characters,31,"1977, July",1977
+898,Jean-Louis Droo (New Earth),Secret Identity,Bad Characters,Brown Eyes,Black Hair,Living Characters,31,"1981, December",1981
+899,Erica Alexandra del Portenza (New Earth),Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Deceased Characters,31,"1995, June",1995
+900,David Kim (Dakotaverse),Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,31,"1994, January",1994
+901,Flying Fox (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,31,"1987, June",1987
+902,Mythus (New Earth),Unknown,Good Characters,Green Eyes,Unknown or None,Deceased Characters,31,"1981, January",1981
+903,Roy G. Bivolo (New Earth),Secret Identity,Bad Characters,Grey Eyes,Black Hair,Deceased Characters,31,"1980, June",1980
+904,Armand Krol (New Earth),Public Identity,Bad Characters,Unknown or None,Brown Hair,Deceased Characters,31,"1992, August",1992
+905,Slushh (New Earth),Public Identity,Bad Characters,Unknown or None,Unknown or None,Living Characters,31,"2007, August",2007
+906,Jacob Kane (New Earth),Public Identity,Good Characters,Unknown or None,Unknown or None,Living Characters,31,"2009, August",2009
+907,Karon (New Earth),Public Identity,Good Characters,Unknown or None,Unknown or None,Living Characters,31,"2002, June",2002
+908,Quislet (Pre-Zero Hour),Public Identity,Good Characters,Unknown or None,Unknown or None,Living Characters,31,"1985, September",1985
+909,Apros (New Earth),Public Identity,Good Characters,Unknown or None,Unknown or None,Living Characters,31,"1981, May",1981
+910,Gretchen Kelley (New Earth),Public Identity,Unknown or None,Unknown or None,Grey Hair,Living Characters,31,"1987, February",1987
+911,Zastrow (New Earth),Secret Identity,Bad Characters,Unknown or None,Unknown or None,Living Characters,31,"1987, August",1987
+912,Laira Omoto (New Earth),Secret Identity,Neutral Characters,White Eyes,Red Hair,Deceased Characters,31,"1993, September",1993
+913,King Chimera (New Earth),Secret Identity,Good Characters,Black Eyes,Black Hair,Living Characters,30,"2009, April",2009
+914,David Cain (New Earth),Public Identity,Bad Characters,Blue Eyes,Grey Hair,Living Characters,30,"1999, July",1999
+915,Funky Flashman (New Earth),Public Identity,Bad Characters,Blue Eyes,Unknown or None,Living Characters,30,"1972, February",1972
+916,Iluthin (New Earth),Secret Identity,Bad Characters,Blue Eyes,Black Hair,Deceased Characters,30,"1972, April",1972
+917,Abel Tarrant (New Earth),Secret Identity,Bad Characters,Blue Eyes,Brown Hair,Deceased Characters,30,"1963, September",1963
+918,Daniel Garrett (New Earth),Secret Identity,Good Characters,Blue Eyes,Brown Hair,Deceased Characters,30,"1986, May",1986
+919,Wanda Wayland (New Earth),Public Identity,Bad Characters,Brown Eyes,Blond Hair,Living Characters,30,"1982, June",1982
+920,Mark Richards (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,30,"2006, April",2006
+921,Charles Grayson (New Earth),Public Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,30,"1942, April",1942
+922,Nommo (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Deceased Characters,30,"1982, June",1982
+923,Raquel Ervin (Dakotaverse),Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,30,"1993, May",1993
+924,Euboea (New Earth),Unknown,Good Characters,Brown Eyes,Black Hair,Living Characters,30,"1987, November",1987
+925,Michael Schorr (New Earth),Public Identity,Good Characters,Green Eyes,Brown Hair,Living Characters,30,"1995, September",1995
+926,Rodunn (New Earth),Public Identity,Good Characters,Grey Eyes,Brown Hair,Living Characters,30,"2000, January",2000
+927,Mantis (New Earth),Secret Identity,Bad Characters,Orange Eyes,Unknown or None,Deceased Characters,30,"1971, May",1971
+928,Kelex (New Earth),Public Identity,Neutral Characters,Photocellular Eyes,Unknown or None,Deceased Characters,30,"1988, February",1988
+929,Jinx (New Earth),Secret Identity,Bad Characters,Purple Eyes,Unknown or None,Living Characters,30,"1985, August",1985
+930,Percival Clearweather (New Earth),Public Identity,Good Characters,Unknown or None,Brown Hair,Living Characters,30,"1947, September",1947
+931,Carl Ferris (New Earth),Public Identity,Good Characters,Unknown or None,White Hair,Living Characters,30,"1959, October",1959
+932,Hook (New Earth),Secret Identity,Bad Characters,Unknown or None,Black Hair,Living Characters,30,"1968, March",1968
+933,Loren Jupiter (New Earth),Secret Identity,Good Characters,Unknown or None,Grey Hair,Living Characters,30,"1970, February",1970
+934,Manga Khan (New Earth),Secret Identity,Neutral Characters,Unknown or None,Unknown or None,Living Characters,30,"1988, June",1988
+935,Whit (New Earth),Unknown,Good Characters,Unknown or None,White Hair,Living Characters,30,"1987, May",1987
+936,Vashnu (New Earth),Unknown,Neutral Characters,Unknown or None,Unknown or None,Living Characters,30,"1967, October",1967
+937,Noddy Toylan (New Earth),Unknown,Unknown or None,Unknown or None,Black Hair,Deceased Characters,30,"1942, June",1942
+938,Winky Moylan (New Earth),Unknown,Unknown or None,Unknown or None,Brown Hair,Deceased Characters,30,"1942, June",1942
+939,Blinky Boylan (New Earth),Unknown,Unknown or None,Unknown or None,Red Hair,Deceased Characters,30,"1942, June",1942
+940,Amon Sur (New Earth),Public Identity,Unknown or None,White Eyes,Unknown or None,Deceased Characters,30,"2003, June",2003
+941,Thaddeus Thawne II (New Earth),Secret Identity,Bad Characters,Yellow Eyes,Blond Hair,Deceased Characters,30,"1999, July",1999
+942,Heinrich Megala (New Earth),Public Identity,Good Characters,Black Eyes,Red Hair,Deceased Characters,29,"1987, March",1987
+943,Amentep (New Earth),Secret Identity,Good Characters,Black Eyes,Black Hair,Living Characters,29,"1940, February",1940
+944,Medphyll (New Earth),Secret Identity,Unknown or None,Black Eyes,Unknown or None,Deceased Characters,29,"1962, March",1962
+945,Nekron (New Earth),Unknown,Bad Characters,Black Eyes,Unknown or None,Deceased Characters,29,"1981, June",1981
+946,Marcus Aelius (New Earth),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,29,"1994, September",1994
+947,Remoni-Notra (New Earth),Secret Identity,Bad Characters,Blue Eyes,Black Hair,Deceased Characters,29,"1976, June",1976
+948,Brian Durlin (New Earth),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,29,"2003, August",2003
+949,Natalia Knight (New Earth),Secret Identity,Unknown or None,Blue Eyes,Black Hair,Living Characters,29,"1983, August",1983
+950,Alberto Reyes (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,29,"2006, May",2006
+951,Bianca Reyes (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,29,"2006, May",2006
+952,Jamie Harper (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,29,"2006, May",2006
+953,"Pedro, Ghost Patrol (New Earth)",Public Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,29,"1942, May",1942
+954,Hacken (New Earth),Public Identity,Neutral Characters,Brown Eyes,Brown Hair,Living Characters,29,"1996, April",1996
+955,Edmund Dorrance (New Earth),Secret Identity,Bad Characters,Brown Eyes,Blond Hair,Deceased Characters,29,"1991, January",1991
+956,Angelo Bend (New Earth),Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Living Characters,29,"2002, May",2002
+957,Barbara Eileen Gordon (New Earth),Public Identity,Good Characters,Hazel Eyes,Red Hair,Living Characters,29,"1987, February",1987
+958,Key (New Earth),Secret Identity,Bad Characters,Red Eyes,White Hair,Living Characters,29,"1965, December",1965
+959,John Trujillo (New Earth),Secret Identity,Good Characters,Red Eyes,Black Hair,Living Characters,29,"2006, November",2006
+960,Renata Takamori (New Earth),Public Identity,Good Characters,Unknown or None,Black Hair,Living Characters,29,"1988, October",1988
+961,John Economos (New Earth),Public Identity,Good Characters,Unknown or None,Brown Hair,Living Characters,29,"1987, May",1987
+962,Lorna Hill (New Earth),Public Identity,Good Characters,Unknown or None,Red Hair,Living Characters,29,"1967, October",1967
+963,Celia Windward (New Earth),Public Identity,Good Characters,Unknown or None,Unknown or None,Living Characters,29,"1988, January",1988
+964,Denise Howard (New Earth),Public Identity,Unknown or None,Unknown or None,Brown Hair,Living Characters,29,"1984, April",1984
+965,Benjamin Krullen (New Earth),Secret Identity,Bad Characters,Unknown or None,Unknown or None,Deceased Characters,29,"1988, July",1988
+966,Gregorio de la Vega (New Earth),Secret Identity,Good Characters,Unknown or None,Black Hair,Living Characters,29,"1988, January",1988
+967,Joseph Carny (New Earth),Unknown,Bad Characters,Unknown or None,Unknown or None,Living Characters,29,"1982, June",1982
+968,Clarice Winston (New Earth),Unknown,Good Characters,Unknown or None,Brown Hair,Living Characters,29,"1940, February",1940
+969,Arnold Burnsteel (New Earth),Public Identity,Good Characters,White Eyes,Black Hair,Living Characters,29,"1994, November",1994
+970,Romat-Ru (New Earth),Public Identity,Bad Characters,Black Eyes,Unknown or None,Living Characters,28,"2007, August",2007
+971,Ghast (New Earth),Unknown,Bad Characters,Black Eyes,Black Hair,Living Characters,28,"1962, March",1962
+972,Virman Vundabar (New Earth),Public Identity,Bad Characters,Blue Eyes,Black Hair,Living Characters,28,"1971, December",1971
+973,Bonny Hoffman (New Earth),Public Identity,Bad Characters,Blue Eyes,Blond Hair,Living Characters,28,"1997, May",1997
+974,Lyrissa Mallor (New Earth),Public Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,28,"1989, February",1989
+975,Zazzala (New Earth),Secret Identity,Bad Characters,Blue Eyes,Black Hair,Living Characters,28,"1963, November",1963
+976,Matthew Hagen (New Earth),Secret Identity,Bad Characters,Blue Eyes,Blond Hair,Deceased Characters,28,"1961, December",1961
+977,Candace Jean Gennaro (New Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,28,"2002, February",2002
+978,Hope Taya (New Earth),Public Identity,Bad Characters,Brown Eyes,Black Hair,Living Characters,28,"1999, December",1999
+979,Salvatore Maroni (New Earth),Public Identity,Bad Characters,Brown Eyes,Brown Hair,Deceased Characters,28,"1942, August",1942
+980,Deborah Tiegel (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,28,"1994, March",1994
+981,Star Hawkins (New Earth),Public Identity,Good Characters,Brown Eyes,Black Hair,Deceased Characters,28,"1960, March",1960
+982,Ravan (New Earth),Secret Identity,Bad Characters,Brown Eyes,Black Hair,Deceased Characters,28,"1987, May",1987
+983,Celia Forrestal (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,28,"2002, February",2002
+984,Gary Washington (New Earth),Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,28,"1985, December",1985
+985,Steven Lombard (New Earth),Public Identity,Neutral Characters,Green Eyes,Red Hair,Living Characters,28,"1989, October",1989
+986,Lagoon Boy (New Earth),Secret Identity,Good Characters,Red Eyes,Unknown or None,Living Characters,28,"1998, December",1998
+987,Deimos (New Earth),Public Identity,Bad Characters,Unknown or None,Black Hair,Living Characters,28,"1975, November",1975
+988,Avery Carlton Sunderland (New Earth),Public Identity,Bad Characters,Unknown or None,White Hair,Deceased Characters,28,"1982, October",1982
+989,Thorndyke Thompkins (New Earth),Public Identity,Good Characters,Unknown or None,Unknown or None,Living Characters,28,"1940, November",1940
+990,Dabney Donovan (New Earth),Secret Identity,Bad Characters,Unknown or None,Black Hair,Living Characters,28,"1990, June",1990
+991,Cassius Payne (New Earth),Secret Identity,Bad Characters,Unknown or None,Unknown or None,Living Characters,28,"1994, May",1994
+992,"Slim, Ghost Patrol (New Earth)",Secret Identity,Good Characters,Unknown or None,Blond Hair,Deceased Characters,28,"1942, May",1942
+993,Bertron Diib (New Earth),Secret Identity,Good Characters,Unknown or None,Unknown or None,Deceased Characters,28,"1991, August",1991
+994,Hugh Hazzard (New Earth),Secret Identity,Good Characters,Unknown or None,Unknown or None,Living Characters,28,"1939, August",1939
+995,Gehenna (New Earth),Unknown,Good Characters,Unknown or None,Brown Hair,Deceased Characters,28,"2005, November",2005
+996,Jack Jordan (New Earth),Unknown,Good Characters,Unknown or None,Brown Hair,Living Characters,28,"1961, December",1961
+997,Robin Hood (New Earth),Unknown,Good Characters,Unknown or None,Brown Hair,Living Characters,28,"1938, January",1938
+998,Susan Linden I (New Earth),Secret Identity,Good Characters,Violet Eyes,Violet Hair,Deceased Characters,28,"1973, August",1973
+999,Torquemada (New Earth),Public Identity,Good Characters,White Eyes,Unknown or None,Living Characters,28,"1993, March",1993
